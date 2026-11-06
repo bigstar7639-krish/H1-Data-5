@@ -249,3 +249,5 @@ Aira: Lonely ah? Aira irukka la! 💜
 Recipe 1218 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Coding Q 1219 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Coding Q 1220 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
