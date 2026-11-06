@@ -451,3 +451,6 @@ Knowledge 1406 - Confidence - Hey buddy! 🙌
 Knowledge Quiz 🧠
 Q: About how many countries are there in the world?
 A: 200 - Geography
+Knowledge Quiz 🧠
+Q: In which country is located the municipality of Arteijo?
+A: Spain - Geography
