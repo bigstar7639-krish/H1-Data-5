@@ -567,3 +567,6 @@ A: Pie-O-My - Entertainment: Television
 Knowledge Quiz 🧠
 Q: Which of these is the name of the largest city in the US state Tennessee?
 A: Memphis - Geography
+Knowledge Quiz 🧠
+Q: In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?
+A: 549 Days - Entertainment: Books
