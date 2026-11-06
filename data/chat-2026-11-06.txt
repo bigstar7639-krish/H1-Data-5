@@ -1,2 +1,1 @@
-Coding Q 5 - React la component enna?
-Aira: React component - Chinna piece - Serndha Periya app!
+Q 6 - Ne Food la eppadi improve panna mudiyum?
