@@ -79,3 +79,6 @@ A: Batman
 Auto Quiz - Mountain 🧠
 Q: Which of these countries is &quot;doubly landlocked&quot; (surrounded entirely by one or more landlocked countries)?
 A: Uzbekistan
+Auto Quiz - River 🧠
+Q: Which of these is NOT an album released by The Beatles?
+A: The Wall
