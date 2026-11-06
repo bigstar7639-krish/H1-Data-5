@@ -573,3 +573,6 @@ A: 549 Days - Entertainment: Books
 Knowledge Quiz 🧠
 Q: Who is the main character in &quot;The Stanley Parable&quot;?
 A: Stanley - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which movie contains the quote, &quot;Say hello to my little friend!&quot;?
+A: Scarface - Entertainment: Film
