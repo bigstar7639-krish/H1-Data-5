@@ -118,3 +118,6 @@ A: Gale
 Auto Quiz - Diet 🧠
 Q: What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?
 A: 1999
+Auto Quiz - Sleep 🧠
+Q: What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+A: Ctrl + C
