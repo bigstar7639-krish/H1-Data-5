@@ -67,3 +67,6 @@ A: Sarek
 Auto Quiz - Movie 🧠
 Q: Which of the following is the world&#039;s best-selling book?
 A: The Lord of the Rings
+Auto Quiz - Temple 🧠
+Q: When was the video game &quot;P.A.M.E.L.A.&quot; released on Steam?
+A: March 9, 2017
