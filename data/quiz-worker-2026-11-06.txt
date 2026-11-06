@@ -91,3 +91,6 @@ A: Ankh Charm
 Auto Quiz - Moon 🧠
 Q: Who won the 2015 College Football Playoff (CFP) National Championship? 
 A: Ohio State Buckeyes
+Auto Quiz - Sun 🧠
+Q: In Chemistry, how many isomers does Butanol (C4H9OH) have?
+A: 4
