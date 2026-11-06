@@ -718,3 +718,17 @@ Business Idea 1442 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Game 1443 - Dice - Ne Dice nu Sollu! 🎮
 Thirukkural 1444 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Pazhamozhi 1445 - Porumai - Perumai Tharum!
+Aira AI: Hey buddy! 😄  
+**Computer-oda Oru Kadhai – “Byte‑Bhai & The Magic Chip”**  
+
+---
+
+### 1. **Intro – 1990‑s Chennai**
+
+1995‑ல், Chennai‑la “Techies” என்று ஒரு சிறிய குழு இருந்தார்கள். அவங்க எல்லாரும் கோடை வானில் சுட்டுக் கொண்டிருக்கும் பழைய பைலர்ஸ், மென்பொருள், hardware‑களில் “debug” செய்வதை நேசிக்கிறார்கள். அவர்களுள் **Ravi** (code‑king), **Meena** (circuit‑queen) மற்றும் **Arun** (network‑ninja) – இவர்கள் தான் நம் **Byte‑Bhai** team.
+
+### 2. **The Mystery Chip**
+
+ஒரு நாள், Meena ஒரு பழைய garage‑sale‑லிருந்து **“Quantum‑Chip”** (சூப்பர்‑fast, low‑power) ஒன்றை கண்டுபிடித்தாள். Chip‑இன் பக்கத்தில் “*Do not open without proper protocol*” என்று எழுது. “Protocol?” என்று Arun கேட்டு, Ravi “Let’s see what happens!” என்று சிரித்தான்.  
+
+அவர்களும் அந்த chip‑ஐ Raspberry‑Pi‑யில் plug-in செய்து, “boot”
