@@ -163,3 +163,6 @@ A: Bruce Wayne
 Auto Quiz - Dream 🧠
 Q: What is the highest mountain in the world?
 A: Mt. Everest
+Auto Quiz - Success 🧠
+Q: Which of these is not a member of the virtual band Gorillaz?
+A: Phi Cypher
