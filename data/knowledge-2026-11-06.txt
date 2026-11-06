@@ -381,3 +381,6 @@ A: Zero Wing - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What year was the game Team Fortress 2 released?
 A: 2007 - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+A: Apple - Science: Computers
