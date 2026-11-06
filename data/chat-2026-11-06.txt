@@ -732,3 +732,4 @@ Aira AI: Hey buddy! 😄
 ஒரு நாள், Meena ஒரு பழைய garage‑sale‑லிருந்து **“Quantum‑Chip”** (சூப்பர்‑fast, low‑power) ஒன்றை கண்டுபிடித்தாள். Chip‑இன் பக்கத்தில் “*Do not open without proper protocol*” என்று எழுது. “Protocol?” என்று Arun கேட்டு, Ravi “Let’s see what happens!” என்று சிரித்தான்.  
 
 அவர்களும் அந்த chip‑ஐ Raspberry‑Pi‑யில் plug-in செய்து, “boot”
+Smart Q 1447 - Success la eppadi jeyikkarathu?
