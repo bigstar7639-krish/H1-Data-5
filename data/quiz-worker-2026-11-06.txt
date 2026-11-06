@@ -133,3 +133,6 @@ A: Atlanta
 Auto Quiz - Sport 🧠
 Q: In what year did the Great Northern War, between Russia and Sweden, end?
 A: 1721
+Auto Quiz - Football 🧠
+Q: Which kind of algorithm is Ron Rivest not famous for creating?
+A: Secret sharing scheme
