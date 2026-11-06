@@ -64,3 +64,6 @@ A: Ainz Ooal Gown
 Auto Quiz - Health 🧠
 Q: In Star Trek, what is the name of Spock&#039;s father?
 A: Sarek
+Auto Quiz - Movie 🧠
+Q: Which of the following is the world&#039;s best-selling book?
+A: The Lord of the Rings
