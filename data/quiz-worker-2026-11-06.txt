@@ -160,3 +160,6 @@ A: iPhone 4S
 Auto Quiz - Study 🧠
 Q: Who is Batman?
 A: Bruce Wayne
+Auto Quiz - Dream 🧠
+Q: What is the highest mountain in the world?
+A: Mt. Everest
