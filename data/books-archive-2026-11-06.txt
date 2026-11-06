@@ -42,3 +42,4 @@ Dog - bwb_S0-AWJ-200 - ghost dog of killicut
 Dog - bwb_T4-APV-334 - Silver Chief Dog Of The North
 Food - foodtaster0000unse - the food taster
 Food - foodbuying0000unse - Food Buying
+Cricket - cricketcage00shim - The cricket cage
