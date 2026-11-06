@@ -103,3 +103,6 @@ A: 314.15 Inches
 Auto Quiz - Teacher 🧠
 Q: What is the capital of Wisconsin, USA?
 A: Madison
+Auto Quiz - Student 🧠
+Q: Harvard University is located in which city?
+A: Cambridge
