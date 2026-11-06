@@ -97,3 +97,6 @@ A: 4
 Auto Quiz - Animal 🧠
 Q: How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?
 A: 9
+Auto Quiz - Baby 🧠
+Q: What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?
+A: 314.15 Inches
