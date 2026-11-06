@@ -40,3 +40,6 @@ A: Chicago
 Auto Quiz - Tamil 🧠
 Q: The football video game series &quot;Pro Evolution Soccer&quot; is developed by which company?
 A: Konami
+Auto Quiz - Love 🧠
+Q: Which of the following is NOT a capital city?
+A: Sydney
