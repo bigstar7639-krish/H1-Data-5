@@ -542,3 +542,4 @@ Oru chinna madurai la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala!
 Q 1349 - Unakku Courage pathi enna theriyum?
 Motivation 1350
 Paravalla! Rest edu - Thirumba try pannu!
+Talk 1351 - Storytelling pathi pesalama? Sollu! 💬
