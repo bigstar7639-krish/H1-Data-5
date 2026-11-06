@@ -306,3 +306,6 @@ A: John Von Neumann - Science: Mathematics
 Knowledge Quiz 🧠
 Q: What is the official language in Liechtenstein?
 A: German - Geography
+Knowledge Quiz 🧠
+Q: Where does the Mac part of the name Fleetwood Mac come from?
+A: John McVie - Entertainment: Music
