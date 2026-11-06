@@ -546,3 +546,16 @@ Talk 1351 - Storytelling pathi pesalama? Sollu! 💬
 Coding Q 1352 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Movie 1353 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
+Aira AI: Hey buddy! 🌿 “Plants la improve panna” nu solrathu easy – aana proper care kudutha, plant‑gal super healthy ah varum. I’ll give you a quick “chetta‑checklist” in Tanglish + a little English mix, so you can start right away.
+
+---
+
+## 1️⃣ Soil / Kattai (Medium)  
+- **Right type:**  
+  - **Pot plants** – use a good quality potting mix (coconut coir + perlite + compost).  
+  - **Garden beds** – loam + sand (1:1) + organic manure.  
+- **pH check:** Most veggies & flowering plants love pH 6–7. Simple pH meter or even litmus paper can tell you. If it’s too acidic, add garden lime; if too alkaline, add elemental sulphur.
+
+## 2️⃣ Watering (Neer)  
+- **Frequency:** Not just “once a day”. Check the top 2‑3 cm of soil – if dry, water.  
+- **Method:** Bottom‑watering works great for pots (fill tray, le
