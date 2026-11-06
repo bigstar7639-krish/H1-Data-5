@@ -303,3 +303,6 @@ A: Brighton - Entertainment: Film
 Knowledge Quiz 🧠
 Q: Which of the following mathematicians made major contributions to game theory?
 A: John Von Neumann - Science: Mathematics
+Knowledge Quiz 🧠
+Q: What is the official language in Liechtenstein?
+A: German - Geography
