@@ -142,3 +142,6 @@ A: OCBC
 Auto Quiz - History 🧠
 Q: What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
 A: ADPCM Sampler
+Auto Quiz - Culture 🧠
+Q: Where did the Great Storm of 1987 make landfall at, first?
+A: Cornwall
