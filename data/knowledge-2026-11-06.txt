@@ -366,3 +366,6 @@ A: 20 - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: Who was the inspiration for Cuthbert Calculus in the Tintin series?
 A: Auguste Picard - Entertainment: Comics
+Knowledge Quiz 🧠
+Q: Which of these is NOT a real tectonic plate?
+A: Atlantic Plate - Geography
