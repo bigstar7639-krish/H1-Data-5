@@ -636,3 +636,5 @@ Vocab 1397 - Peace = Amaithi 📚
 Business Idea 1398 - Tuition - Veetla Tuition!
 Quote 1399 - Daily try pannu - Jeyichiduva! - Aira
 Talk 1400 - Economics pathi pesalama? Sollu! 💬
+Coding Q 1402 - Website eppadi pannurathu?
+Aira: Website - HTML + CSS + JS!
