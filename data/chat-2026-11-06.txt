@@ -167,3 +167,16 @@ Knowledge 1163 - Taj Mahal - Hey buddy! 😄 Taj Mahal‑ஐப் பற்�
 |--------|---------|
 | **Material** | Pure white marble (Makrana marble from Rajasthan). Marble‑இல் tiny‑tiny **inlay work** – semi‑precious stones (lapis lazuli, jade, crystal) used for floral & calligraphic patterns. |
 | **Structure** | Central **dome** (≈ 35 m tall) surrounded by four minarets (≈ 40 m). Inside, a **cenotaph** for Mumtaz & a separate actual burial ch
+Knowledge 1164 - Psychology - Hey buddy! Psychology‑ஐப் பற்றி பேசலாமா? 🤓  
+
+## 1. Psychology என்ன?  
+Psychology (மனவியல்) என்பது **மனசு** (mind), **நடத்தை** (behavior) மற்றும் **அறிவு** (cognition) பற்றி ஆராயும் அறிவியல். “Why do we think, feel, act the way we do?”‑ஆன கேள்விகளை scientific method‑ஐ கொண்டு answer செய்யும் discipline தான்.
+
+## 2. முக்கியமான Branch‑கள்  
+
+| Branch | என்ன செய்கிறது? | Real‑life Example |
+|--------|------------------|-------------------|
+| **Clinical Psychology** | mental disorders‑ஐ diagnose, treat, prevent. | depression, anxiety therapy. |
+| **Counseling Psychology** | life‑transition, relationship issues‑க்கு guidance. | career counselling, marriage counseling. |
+| **Developmental Psychology** | குழந்தை முதல் முதுமை வரை மன வளர்ச்சி. | Piaget’s stages of cognitive development. |
+| **Social
