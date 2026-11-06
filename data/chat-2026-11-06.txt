@@ -490,3 +490,18 @@ Quote 1328 - Daily try pannu - Jeyichiduva! - Aira
 Story 1329
 Oru chinna city la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Pazhamozhi 1330 - Sontha Kaal la Ninnu - Jeyippa!
+Knowledge 1331 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - **Harry Potter** pathi konjam solren!  
+
+---
+
+### 1. Basic Overview  
+Harry Potter oru British fantasy novel series‑a, J.K. Rowling than write pannitu. 1997‑la *Harry Potter and the Philosopher’s Stone* (US‑la *Sorcerer’s Stone*) publish aachu, apram 7‑a books‑la complete aachu. 1997‑2007‑kulla 10 years la ellam release aachu.
+
+| Book # | Title (Tamil) | Year |
+|--------|----------------|------|
+| 1 | *Harry Potter and the Philosopher’s Stone* (அர்த்தமுள்ள கல்) | 1997 |
+| 2 | *Harry Potter and the Chamber of Secrets* (இரகசியக் குளம்) | 1998 |
+| 3 | *Harry Potter and the Prisoner of Azkaban* (அஸ்காபனின் கைதன்) | 1999 |
+| 4 | *Harry Potter and the Goblet of Fire* (நெருப்புக் கோப்பை) | 2000 |
+| 5 | *Harry Potter and the Order of the Phoenix* (ஃபெனிக்ஸ் ஒழுங்கு) | 2003 |
+| 6 | *Harry Potter an
