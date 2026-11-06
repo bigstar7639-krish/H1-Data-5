@@ -714,3 +714,6 @@ A: You smell extremely unpleasant. - General Knowledge
 Knowledge Quiz 🧠
 Q: How many laws of thermodynamics are there?
 A: Four - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: Which of the following liquids is least viscous? Assume temperature is 25&deg;C.
+A: Acetone - Science &amp; Nature
