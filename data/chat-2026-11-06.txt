@@ -59,3 +59,5 @@ Ne dog‑a better panni kollalaam nu think panreenga, right?  Belo
 ## 2️⃣ Exercise – Movement Is Key  
 - **Daily walks**: Minimum 30‑45 mins, split into 2 sessions if possible.  
 - **Playtime**: Fe
+Coding Q 1126 - Website eppadi pannurathu?
+Aira: Website - HTML + CSS + JS!
