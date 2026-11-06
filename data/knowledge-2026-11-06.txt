@@ -231,3 +231,6 @@ A: E string - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Who is the chemical element Curium named after?
 A: Marie &amp; Pierre Curie - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: What is the unit of currency in Laos?
+A: Kip - General Knowledge
