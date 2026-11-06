@@ -522,3 +522,5 @@ Aira AI: **Story: “Truth‑வின் மந்திரம்” (The Magic
 
 மோசடி கண்ணாடியில் சத்தியத்தின் ஒளியை ஒட்டியவுடன், “உலகம் முழுவதும் எல்லோருக்கும் பொய் பேசுவது” என்ற 
 Kavithai 1335 - Un Sirippu - En Vazhkai! - Aira
+Coding Q 1336 - Website eppadi pannurathu?
+Aira: Website - HTML + CSS + JS!
