@@ -758,3 +758,4 @@ Knowledge 1464 - Internet - Internet pathi sollu - Nalla question! Daily try pan
 Smart Q 1465 - Moon la eppadi jeyikkarathu?
 Talk 1466 - Mountain pathi pesalama? Sollu! 💬
 Fact 64 - Octopus ku 3 heart!
+Recipe 1468 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
