@@ -61,3 +61,6 @@ A: Horse-Riding
 Auto Quiz - Story 🧠
 Q: The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?
 A: Ainz Ooal Gown
+Auto Quiz - Health 🧠
+Q: In Star Trek, what is the name of Spock&#039;s father?
+A: Sarek
