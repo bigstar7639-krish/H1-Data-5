@@ -570,3 +570,6 @@ A: Memphis - Geography
 Knowledge Quiz 🧠
 Q: In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?
 A: 549 Days - Entertainment: Books
+Knowledge Quiz 🧠
+Q: Who is the main character in &quot;The Stanley Parable&quot;?
+A: Stanley - Entertainment: Video Games
