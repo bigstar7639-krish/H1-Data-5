@@ -198,3 +198,6 @@ A: Neoplasticism - Art
 Knowledge Quiz 🧠
 Q: What is the maximum value of a 32-bit signed binary integer?
 A: 2,147,483,647 - Science: Computers
+Knowledge Quiz 🧠
+Q: The name of the Metroid series comes from what?
+A: An enemy in the game - Entertainment: Video Games
