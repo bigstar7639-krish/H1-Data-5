@@ -127,3 +127,6 @@ A: 11037
 Auto Quiz - Fashion 🧠
 Q: During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?
 A: A shell
+Auto Quiz - Game 🧠
+Q: Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.
+A: Atlanta
