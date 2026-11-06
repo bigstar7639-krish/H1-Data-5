@@ -121,3 +121,6 @@ A: 1999
 Auto Quiz - Sleep 🧠
 Q: What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
 A: Ctrl + C
+Auto Quiz - Beauty 🧠
+Q: What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?
+A: 11037
