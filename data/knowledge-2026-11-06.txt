@@ -219,3 +219,6 @@ A: Restoration - Entertainment: Japanese Anime &amp; Manga
 Knowledge Quiz 🧠
 Q: What is the maximum value of a 32-bit signed binary integer?
 A: 2,147,483,647 - Science: Computers
+Knowledge Quiz 🧠
+Q: Which character does voice actress Tara Strong NOT voice?
+A: Bubbles (2016) - Entertainment: Television
