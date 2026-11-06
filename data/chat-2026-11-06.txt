@@ -623,3 +623,5 @@ Aira: Python loop: `for i in range(5): print(i)`
 Q 1388 - Ne Wisdom la eppadi improve panna mudiyum?
 Emotion Q 1389 - sad?
 Aira: Paravalla! Aira irukka - Pesu! ❤
+Joke 1390
+Teacher: Yen late? Student: School Ahead board! 😂
