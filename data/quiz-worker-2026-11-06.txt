@@ -181,3 +181,6 @@ A: June 22, 2018
 Auto Quiz - Truth 🧠
 Q: What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?
 A: 1502
+Auto Quiz - Wisdom 🧠
+Q: Which of these is not an additional variation of the color purple?
+A: Kobicha
