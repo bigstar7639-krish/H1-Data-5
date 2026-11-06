@@ -4,3 +4,6 @@ A: 685
 Auto Quiz - Eiffel Tower 🧠
 Q: Which US state has the highest population?
 A: California
+Auto Quiz - Psychology 🧠
+Q: Which building was set aflame on August 24th, 1812?
+A: The White House
