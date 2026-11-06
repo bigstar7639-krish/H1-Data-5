@@ -601,3 +601,5 @@ Movie 1372 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! �
 Recipe 1373 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Game 1374 - Dice - Ne Dice nu Sollu! 🎮
 Reading 1375 - Python Crash Course! 📚
+Emotion Q 1376 - fear?
+Aira: Bayam - Normal! Ne jeyichiduva! 💪
