@@ -582,3 +582,6 @@ A: Duckburg - Entertainment: Television
 Knowledge Quiz 🧠
 Q: Which game was the Game of the Year in 2018?
 A: God of War - History
+Knowledge Quiz 🧠
+Q: What is the capital of Vietnam?
+A: Hanoi - Geography
