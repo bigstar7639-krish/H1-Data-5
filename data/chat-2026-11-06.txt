@@ -950,3 +950,4 @@ Smart Q 1569 - Thirukkural la eppadi jeyikkarathu?
 Knowledge 1570 - Pyramids - Pyramids pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Coding Q 1571 - React la component enna?
 Aira: React component - Chinna piece!
+Health 1572 - Health Tip: Daily 30 min walk ponga! 🚶 💪
