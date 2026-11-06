@@ -124,3 +124,6 @@ A: Ctrl + C
 Auto Quiz - Beauty 🧠
 Q: What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?
 A: 11037
+Auto Quiz - Fashion 🧠
+Q: During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?
+A: A shell
