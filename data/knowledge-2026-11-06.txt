@@ -201,3 +201,6 @@ A: 2,147,483,647 - Science: Computers
 Knowledge Quiz 🧠
 Q: The name of the Metroid series comes from what?
 A: An enemy in the game - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What is the name of the author of book series &#039;Percy Jackson&#039;?
+A: Rick Riordan - Entertainment: Books
