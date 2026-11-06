@@ -34,3 +34,6 @@ A: Finding shapes in clouds
 Auto Quiz - Freedom 🧠
 Q: Which of these American singers and songwriters won a Nobel Prize in Literature?
 A: Bob Dylan
+Auto Quiz - Hope 🧠
+Q: What American city was featured in the 1999 PC game Midtown Madness?
+A: Chicago
