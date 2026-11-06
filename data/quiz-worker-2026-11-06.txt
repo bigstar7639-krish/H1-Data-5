@@ -145,3 +145,6 @@ A: ADPCM Sampler
 Auto Quiz - Culture 🧠
 Q: Where did the Great Storm of 1987 make landfall at, first?
 A: Cornwall
+Auto Quiz - Festival 🧠
+Q: Which female player won the gold medal of table tennis singles in 2016 Olympics Games?
+A: DING Ning (China)
