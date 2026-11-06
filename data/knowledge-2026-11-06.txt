@@ -426,3 +426,6 @@ A: 1902 - Vehicles
 Knowledge Quiz 🧠
 Q: Which team was the 2015-2016 NBA Champions?
 A: Cleveland Cavaliers - Sports
+Knowledge Quiz 🧠
+Q: What is the main ship used by Commander Shepard in the Mass Effect Franchise called?
+A: Normandy - Entertainment: Video Games
