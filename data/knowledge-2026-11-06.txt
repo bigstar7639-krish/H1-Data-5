@@ -324,3 +324,6 @@ Knowledge 1317 - Temple - Hey friend! 🙏  **Temple‑pathi solla** ready! Le
 |---------|-------------------|--------------------|
 | **Gopuram** (கோபுரம்) | பெரிய, பல படங்கள் கொண்ட உயரமான கோபுரம். இரவு விளக்குகள் மின்னும் போது “மின்மின” ஆகும்! | Tower‑like gateway, often painted with mythic scenes. |
 | **Vimana** (விமானம்) | கோயிலின் முதன்மை மண்டபம் மேல் இருக்கும் கூரைக் கட்டிடம். சுவர்களில் புல்லாங்குழல் (stone) செதுக்குகள். | The roof over the sanctum, usually a
+Knowledge Quiz 🧠
+Q: Who won the &quot;Champions League&quot; in 1999?
+A: Manchester United - Sports
