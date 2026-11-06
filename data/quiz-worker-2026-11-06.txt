@@ -112,3 +112,6 @@ A: RoboCop
 Auto Quiz - Meditation 🧠
 Q: Which is the model number of the common laser rifle found in Fallout 3, Fallout: New Vegas, and Fallout 4?
 A: AER9
+Auto Quiz - Fitness 🧠
+Q: What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?
+A: Gale
