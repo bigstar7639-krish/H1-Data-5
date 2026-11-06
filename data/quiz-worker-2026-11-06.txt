@@ -85,3 +85,6 @@ A: The Wall
 Auto Quiz - Sky 🧠
 Q: Which of these is an official currency of the Cook Islands?
 A: New Zealand Dollar
+Auto Quiz - Star 🧠
+Q: In Terraria, which of these items is NOT crafted at a Mythril Anvil?
+A: Ankh Charm
