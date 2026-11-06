@@ -674,3 +674,6 @@ A: Initial D - Entertainment: Television
 Knowledge Quiz 🧠
 Q: What is the most-visited website out of these options?
 A: Google - General Knowledge
+Knowledge Quiz 🧠
+Q: Which German city does the map &quot;Clubhouse&quot; in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; take place in?
+A: Hannover - Entertainment: Video Games
