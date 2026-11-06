@@ -336,3 +336,6 @@ A: Kyoko Ito - Entertainment: Music
 Knowledge Quiz 🧠
 Q: What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?
 A: Folium of Descartes - Science: Mathematics
+Knowledge Quiz 🧠
+Q: What Greek letter is used to signify summation?
+A: Sigma - Science: Mathematics
