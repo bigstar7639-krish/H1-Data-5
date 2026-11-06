@@ -73,3 +73,6 @@ A: March 9, 2017
 Auto Quiz - Flower 🧠
 Q: What is the right way to spell the capital of Hungary?
 A: Budapest
+Auto Quiz - Sea 🧠
+Q: What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?
+A: Batman
