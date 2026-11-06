@@ -568,3 +568,5 @@ Recipe 1359 - Snacks - Potato + Masala - Crispy! 🍔
 Movie 1360 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Story 1361
 Oru chinna paris la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Joke 1362
+Teacher: Yen late? Student: School Ahead board! 😂
