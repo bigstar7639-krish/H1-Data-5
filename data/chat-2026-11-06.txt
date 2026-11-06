@@ -340,3 +340,4 @@ Emotion Q 1265 - angry?
 Aira: Kovam ah? Deep breath edu! 😤
 Smart Q 1266 - Human Body la eppadi jeyikkarathu?
 Q 1267 - Tech pathi oru story kekkura?
+Smart Q 1268 - Power la eppadi jeyikkarathu?
