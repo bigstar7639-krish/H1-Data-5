@@ -576,3 +576,6 @@ A: Stanley - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Which movie contains the quote, &quot;Say hello to my little friend!&quot;?
 A: Scarface - Entertainment: Film
+Knowledge Quiz 🧠
+Q: In DuckTales, what is the name of the city where all the main characters live?
+A: Duckburg - Entertainment: Television
