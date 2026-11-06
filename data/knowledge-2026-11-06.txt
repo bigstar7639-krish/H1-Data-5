@@ -333,3 +333,6 @@ A: Dead Sea Scrolls - History
 Knowledge Quiz 🧠
 Q: What is the name of Rivers Cuomo&#039;s wife?
 A: Kyoko Ito - Entertainment: Music
+Knowledge Quiz 🧠
+Q: What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?
+A: Folium of Descartes - Science: Mathematics
