@@ -94,3 +94,6 @@ A: Ohio State Buckeyes
 Auto Quiz - Sun 🧠
 Q: In Chemistry, how many isomers does Butanol (C4H9OH) have?
 A: 4
+Auto Quiz - Animal 🧠
+Q: How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?
+A: 9
