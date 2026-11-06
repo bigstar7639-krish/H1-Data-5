@@ -76,3 +76,6 @@ A: Budapest
 Auto Quiz - Sea 🧠
 Q: What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?
 A: Batman
+Auto Quiz - Mountain 🧠
+Q: Which of these countries is &quot;doubly landlocked&quot; (surrounded entirely by one or more landlocked countries)?
+A: Uzbekistan
