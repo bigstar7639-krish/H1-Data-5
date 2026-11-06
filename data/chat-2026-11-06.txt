@@ -1005,3 +1005,4 @@ Vocab 1600 - Friend = Nanban 📚
 Movie 1601 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Motivation 1602
 Paravalla! Rest edu - Thirumba try pannu!
+Recipe 1603 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
