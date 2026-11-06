@@ -115,3 +115,6 @@ A: AER9
 Auto Quiz - Fitness 🧠
 Q: What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?
 A: Gale
+Auto Quiz - Diet 🧠
+Q: What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?
+A: 1999
