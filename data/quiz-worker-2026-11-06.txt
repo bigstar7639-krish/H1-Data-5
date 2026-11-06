@@ -49,3 +49,6 @@ A: 12
 Auto Quiz - Nature 🧠
 Q: Which of these is the name of a song by Tears for Fears?
 A: Shout
+Auto Quiz - Dog 🧠
+Q: Who voiced Metalbeard in &quot;The Lego Movie&quot;?
+A: Nick Offerman
