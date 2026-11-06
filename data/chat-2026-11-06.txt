@@ -197,3 +197,5 @@ Q 1177 - Un life la Heart eppadi irukku?
 Movie 1178 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Pazhamozhi 1179 - Porumai - Perumai Tharum!
 Vocab 1180 - Friend = Nanban 📚
+Joke 1181
+Why bike sad? Petrol illa!
