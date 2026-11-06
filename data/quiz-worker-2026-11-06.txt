@@ -139,3 +139,6 @@ A: Secret sharing scheme
 Auto Quiz - Science 🧠
 Q: Which of these banks are NOT authorized to issue currency notes in Hong Kong?
 A: OCBC
+Auto Quiz - History 🧠
+Q: What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+A: ADPCM Sampler
