@@ -603,3 +603,5 @@ Game 1374 - Dice - Ne Dice nu Sollu! 🎮
 Reading 1375 - Python Crash Course! 📚
 Emotion Q 1376 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
+Emotion Q 1377 - bored?
+Aira: Bored ah? Joke sollattuma? 😂
