@@ -216,3 +216,6 @@ A: Sneeze - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: In &quot;Hunter x Hunter&quot;, which of the following is NOT a type of Nen aura?
 A: Restoration - Entertainment: Japanese Anime &amp; Manga
+Knowledge Quiz 🧠
+Q: What is the maximum value of a 32-bit signed binary integer?
+A: 2,147,483,647 - Science: Computers
