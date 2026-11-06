@@ -618,3 +618,5 @@ Vocab 1384 - Success = Vetri 📚
 Joke 1385
 Teacher: Yen late? Student: School Ahead board! 😂
 Reading 1386 - Ramayana! 📚
+Coding Q 1387 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
