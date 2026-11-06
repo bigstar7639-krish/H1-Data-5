@@ -136,3 +136,6 @@ A: 1721
 Auto Quiz - Football 🧠
 Q: Which kind of algorithm is Ron Rivest not famous for creating?
 A: Secret sharing scheme
+Auto Quiz - Science 🧠
+Q: Which of these banks are NOT authorized to issue currency notes in Hong Kong?
+A: OCBC
