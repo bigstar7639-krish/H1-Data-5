@@ -130,3 +130,6 @@ A: A shell
 Auto Quiz - Game 🧠
 Q: Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.
 A: Atlanta
+Auto Quiz - Sport 🧠
+Q: In what year did the Great Northern War, between Russia and Sweden, end?
+A: 1721
