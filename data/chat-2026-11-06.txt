@@ -776,3 +776,4 @@ Smart Q 1477 - Freedom la eppadi jeyikkarathu?
 Vocab 1478 - Friend = Nanban 📚
 Coding Q 1479 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Business Idea 1480 - Tuition - Veetla Tuition!
