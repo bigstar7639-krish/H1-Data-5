@@ -205,3 +205,6 @@ A: The Dragon Wagon
 Auto Quiz - City 🧠
 Q: What team won the 2016 MLS Cup?
 A: Seattle Sounders
+Auto Quiz - Madurai 🧠
+Q: What country joined the EU in 2013?
+A: Croatia
