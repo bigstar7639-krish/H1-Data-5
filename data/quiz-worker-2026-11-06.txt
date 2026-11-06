@@ -193,3 +193,6 @@ A: Yellow
 Auto Quiz - Destiny 🧠
 Q: How many sides does a heptagon have?
 A: 7
+Auto Quiz - Karma 🧠
+Q: What year did the Boxing Day earthquake &amp; tsunami occur in the Indian Ocean?
+A: 2004
