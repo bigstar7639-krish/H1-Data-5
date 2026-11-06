@@ -106,3 +106,6 @@ A: Madison
 Auto Quiz - Student 🧠
 Q: Harvard University is located in which city?
 A: Cambridge
+Auto Quiz - Money 🧠
+Q: Which of these films is NOT set in Los Angeles?
+A: RoboCop
