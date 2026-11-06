@@ -154,3 +154,6 @@ A: Animal Crossing: City Folk
 Auto Quiz - Family 🧠
 Q: Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?
 A: Fruit Brute
+Auto Quiz - Friendship 🧠
+Q: Apple&#039;s Voice Assistant, Siri, debuted on which iPhone?
+A: iPhone 4S
