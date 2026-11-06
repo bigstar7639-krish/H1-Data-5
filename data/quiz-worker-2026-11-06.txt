@@ -55,3 +55,6 @@ A: Nick Offerman
 Auto Quiz - Cricket 🧠
 Q: How old is Chloe Price in Life is Strange: Before the Storm?
 A: 16
+Auto Quiz - Space 🧠
+Q: Which of the following sports is not part of the triathlon?
+A: Horse-Riding
