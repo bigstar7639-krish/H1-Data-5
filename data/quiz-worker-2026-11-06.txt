@@ -58,3 +58,6 @@ A: 16
 Auto Quiz - Space 🧠
 Q: Which of the following sports is not part of the triathlon?
 A: Horse-Riding
+Auto Quiz - Story 🧠
+Q: The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?
+A: Ainz Ooal Gown
