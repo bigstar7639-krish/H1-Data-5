@@ -252,3 +252,4 @@ Aira: AI - Data paathu - Pattern!
 Coding Q 1220 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Game 1221 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
+Reading 1222 - Python Crash Course! 📚
