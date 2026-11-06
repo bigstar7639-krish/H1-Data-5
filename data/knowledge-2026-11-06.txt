@@ -222,3 +222,6 @@ A: 2,147,483,647 - Science: Computers
 Knowledge Quiz 🧠
 Q: Which character does voice actress Tara Strong NOT voice?
 A: Bubbles (2016) - Entertainment: Television
+Knowledge Quiz 🧠
+Q: In Game of Thrones, what is Littlefinger&#039;s real name?
+A: Petyr Baelish - Entertainment: Television
