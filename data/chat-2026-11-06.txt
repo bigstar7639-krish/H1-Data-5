@@ -870,3 +870,4 @@ Emotion Q 1531 - happy?
 Aira: Super! Happy ah irukka! 😊
 Business Idea 1532 - Tuition - Veetla Tuition!
 Talk 1533 - Moon pathi pesalama? Sollu! 💬
+Q 1534 - Unakku Physics pathi enna theriyum?
