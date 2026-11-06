@@ -109,3 +109,6 @@ A: Cambridge
 Auto Quiz - Money 🧠
 Q: Which of these films is NOT set in Los Angeles?
 A: RoboCop
+Auto Quiz - Meditation 🧠
+Q: Which is the model number of the common laser rifle found in Fallout 3, Fallout: New Vegas, and Fallout 4?
+A: AER9
