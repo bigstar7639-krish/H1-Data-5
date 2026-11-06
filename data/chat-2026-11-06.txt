@@ -233,3 +233,4 @@ Coding Q 1206 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Story 1207
 Oru mountain la oru paiyan irunthan! Daily help pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
+Business Idea 1208 - Instagram Page - Daily 1 Post!
