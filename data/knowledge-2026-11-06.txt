@@ -186,3 +186,6 @@ A: 4 - General Knowledge
 Knowledge Quiz 🧠
 Q: Red Vines is a brand of what type of candy?
 A: Licorice - General Knowledge
+Knowledge Quiz 🧠
+Q: In Minecraft: Java Edition, which of the following feature/block was added to Survival mode in Beta 1.3?
+A: Beds - Entertainment: Video Games
