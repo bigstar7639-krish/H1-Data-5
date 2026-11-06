@@ -952,3 +952,4 @@ Coding Q 1571 - React la component enna?
 Aira: React component - Chinna piece!
 Health 1572 - Health Tip: Daily 30 min walk ponga! 🚶 💪
 Reading 1573 - Alchemist! 📚
+Pazhamozhi 1574 - Sontha Kaal la Ninnu - Jeyippa!
