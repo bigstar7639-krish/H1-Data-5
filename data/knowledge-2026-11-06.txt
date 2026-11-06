@@ -661,3 +661,6 @@ A: MASTER 9 - Bridge Master - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?
 A: Gort - Entertainment: Film
+Knowledge Quiz 🧠
+Q: Which portuguese island is soccer player Cristiano Ronaldo from?
+A: Madeira - Sports
