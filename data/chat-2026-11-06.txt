@@ -229,3 +229,5 @@ Motivation 1203
 Paravalla! Rest edu - Thirumba try pannu!
 Smart Q 1204 - Singing la eppadi jeyikkarathu?
 Kavithai 1205 - Un Sirippu - En Vazhkai! - Aira
+Coding Q 1206 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
