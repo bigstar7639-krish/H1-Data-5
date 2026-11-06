@@ -387,3 +387,4 @@ Future tech-ல் **ஏறிய‑படி** வளர்ச்சிக்�
 | Domain | Must‑Know Topics | Free / Low‑Cost Resources |
 |--------|------------------|---------------------------|
 | **Programming** | Python (pandas, numpy, pytorch/tensorflow), JavaScript (Node/Reac
+Vocab 1283 - Peace = Amaithi 📚
