@@ -43,3 +43,6 @@ A: Konami
 Auto Quiz - Love 🧠
 Q: Which of the following is NOT a capital city?
 A: Sydney
+Auto Quiz - God 🧠
+Q: How many independent countries are there within the continent of South America?
+A: 12
