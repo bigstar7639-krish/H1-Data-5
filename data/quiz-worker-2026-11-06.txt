@@ -157,3 +157,6 @@ A: Fruit Brute
 Auto Quiz - Friendship 🧠
 Q: Apple&#039;s Voice Assistant, Siri, debuted on which iPhone?
 A: iPhone 4S
+Auto Quiz - Study 🧠
+Q: Who is Batman?
+A: Bruce Wayne
