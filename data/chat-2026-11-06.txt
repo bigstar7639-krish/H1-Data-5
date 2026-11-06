@@ -370,3 +370,20 @@ Talk 1278 - Climate pathi pesalama? Sollu! 💬
 Quote 1279 - Daily try pannu - Jeyichiduva! - Aira
 Reading 1280 - Python Crash Course! 📚
 Business Idea 1281 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Aira AI: Hey buddy! 😎  
+Future tech-ல் **ஏறிய‑படி** வளர்ச்சிக்காக (grow fast) ஒரு roadmap-ஐ பண்ணி விடலாம். கீழே step‑by‑step guide-ஐ கொடுத்துள்ளேன் – **Tamil‑Tanglish + a pinch of English + a sprinkle of other languages** (because knowledge is universal 🌍).
+
+---
+
+## 1️⃣ Vision & Niche தேர்வு
+- **What excites you?** AI, Quantum, AR/VR, Blockchain, Bio‑Tech, Robotics, Edge‑Computing, Space‑Tech, etc.  
+- **Why?** உங்கள் “why” strong ஆக இருக்குது என்றால் learning curve smooth ஆக இருக்கும்.  
+> *“Choose a field that makes your heart race, not just your brain.”*  
+
+---
+
+## 2️⃣ Core Foundations (அடிப்படை)
+
+| Domain | Must‑Know Topics | Free / Low‑Cost Resources |
+|--------|------------------|---------------------------|
+| **Programming** | Python (pandas, numpy, pytorch/tensorflow), JavaScript (Node/Reac
