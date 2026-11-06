@@ -14,3 +14,5 @@ Vocab 1103 - Success = Vetri 📚
 Q 1104 - Java pathi oru story kekkura?
 Coding Q 1105 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Emotion Q 1106 - angry?
+Aira: Kovam ah? Deep breath edu! 😤
