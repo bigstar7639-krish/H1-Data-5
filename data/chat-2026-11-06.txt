@@ -1,1 +1,26 @@
-Quote 19 - Daily try pannu - Jeyichiduva! - Aira
+Knowledge 20 - Black Hole pathi theriyuma? **🌀 Black Hole – ப்ளாக் ஹோல் பற்றி சொல்லலாம்! 🌀**
+
+---
+
+### 1️⃣ என்னது ப்ளாக் ஹோல்?  
+A **black hole** என்பது space‑time‑இல் **extremely strong gravitational field** கொண்ட ஒரு region. இங்க light‑um escape செய்ய முடியாது, அதனால் “black” என்று அழைக்கப்படுகிறது.
+
+---
+
+### 2️⃣ எப்படி உருவாகும்?  
+- **Massive star** (≈ 20‑30 solar masses அதிக) nuclear fuel‑ஐ consume செய்யும் போது, core‑இல் **gravitational collapse** நடக்கும்.  
+- **Supernova** explosion‑க்கு பின், core‑இன் mass critical limit‑ஐ cross ஆனால், அது **Schwarzschild radius** (Rₛ) என்ற radius‑இல் “event horizon”‑ஐ உருவாக்கும்.  
+
+> **Formula**:  
+> \[
+> R_s = \frac{2GM}{c^2}
+> \]  
+> *G = gravitational constant, M = mass, c = speed of light.*
+
+---
+
+### 3️⃣ முக்கிய பாகங்கள்  
+
+| பாகம் | விளக்கம் |
+|------|----------|
+| **Event Horizon*
