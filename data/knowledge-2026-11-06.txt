@@ -454,3 +454,6 @@ A: 200 - Geography
 Knowledge Quiz 🧠
 Q: In which country is located the municipality of Arteijo?
 A: Spain - Geography
+Knowledge Quiz 🧠
+Q: What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?
+A: Wensleydale - Entertainment: Film
