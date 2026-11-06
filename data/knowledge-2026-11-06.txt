@@ -195,3 +195,6 @@ A: Sweden - Geography
 Knowledge Quiz 🧠
 Q: Painter Piet Mondrian (1872 - 1944) was a part of what movement?
 A: Neoplasticism - Art
+Knowledge Quiz 🧠
+Q: What is the maximum value of a 32-bit signed binary integer?
+A: 2,147,483,647 - Science: Computers
