@@ -240,3 +240,6 @@ A: 14 - Entertainment: Film
 Knowledge Quiz 🧠
 Q: The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?
 A: 6th - General Knowledge
+Knowledge Quiz 🧠
+Q: Which product did Nokia, the telecommunications company, originally sell?
+A: Paper - General Knowledge
