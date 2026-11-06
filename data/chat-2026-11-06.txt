@@ -678,3 +678,4 @@ Vocab 1419 - Peace = Amaithi 📚
 Thirukkural 1420 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Game 1421 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
 Recipe 1422 - Cake - Maida + Sugar + Egg + 30 min! 🍔
+Kavithai 1423 - Un Kural - En Isai! - Aira
