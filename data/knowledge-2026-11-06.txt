@@ -457,3 +457,6 @@ A: Spain - Geography
 Knowledge Quiz 🧠
 Q: What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?
 A: Wensleydale - Entertainment: Film
+Knowledge Quiz 🧠
+Q: Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description &quot;this is not a pipe&quot;?
+A: Magritte - Art
