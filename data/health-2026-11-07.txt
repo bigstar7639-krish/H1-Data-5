@@ -11,3 +11,4 @@ Health 1449 - Health Tip: Daily 8 glass water kudinga!
 Health 1450 - Health Tip: 7 mani neram thoongunga!
 Health 1475 - Health Tip: Daily 30 min walk ponga!
 Health 1510 - Health Tip: Fruits daily saapdunga!
+Health 1512 - Yoga Tip: Daily 5 min deep breath edu!
