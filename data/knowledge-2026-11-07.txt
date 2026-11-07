@@ -369,3 +369,6 @@ A: 3 - Entertainment: Video Games
 Knowledge Quiz
 Q: In 1939, Britain and France declared war on Germany after it invaded which country?
 A: Poland - History
+Knowledge Quiz
+Q: Which of the following ancient peoples was NOT classified as Hellenic (Greek)?
+A: Illyrians - History
