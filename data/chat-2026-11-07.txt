@@ -274,3 +274,4 @@ Emotion Q 1175 - angry?
 Aira: Kovam ah? Deep breath edu!
 Reading 1176 - Bharathiyar Kavithaigal!
 Talk 1177 - Future pathi pesalama? Sollu!
+Kavithai 1178 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
