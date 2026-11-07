@@ -525,3 +525,6 @@ A: Ursula - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: George Orwell wrote this book, which is often considered a statement on government oversight.
 A: 1984 - Entertainment: Books
+Knowledge Quiz
+Q: In the movie "Blade Runner", what is the term used for human-like androids ?
+A: Replicants - Entertainment: Film
