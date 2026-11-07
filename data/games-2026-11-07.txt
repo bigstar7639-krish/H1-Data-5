@@ -11,3 +11,4 @@ Game 1242 - Dice - Ne Dice nu Sollu!
 Game 1276 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 1318 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Game 1320 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Game 1328 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
