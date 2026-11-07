@@ -770,3 +770,5 @@ Vocab 1479 - Happy = Santhosham
 Talk 1480 - Space pathi pesalama? Sollu!
 World Story 1481
 Oru london la oru doctor irunthan! Daily pray pannaan pannan! Oru naal love kedaichuchu! Life maariduchu!
+Coding Q 1482 - App eppadi pannurathu?
+Aira: App - Idea - Design - Code!
