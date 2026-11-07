@@ -17,3 +17,4 @@ Game 1387 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 1417 - Coin Toss - Ne Toss nu Sollu!
 Game 1428 - Dice - Ne Dice nu Sollu!
 Game 1431 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 1433 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
