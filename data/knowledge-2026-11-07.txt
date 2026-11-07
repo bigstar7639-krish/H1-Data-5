@@ -757,3 +757,6 @@ A: Disk Operating System - Science: Computers
 Knowledge Quiz
 Q: The Second Boer War in 1899 was fought where?
 A: South Africa - History
+Knowledge Quiz
+Q: Who is the English voice actor for Sora from the Kingdom Hearts series?
+A: Haley Joel Osment - Entertainment: Video Games
