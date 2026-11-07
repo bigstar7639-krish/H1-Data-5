@@ -273,3 +273,6 @@ Knowledge 1215 - Black Hole - Black Hole pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League
 A: 38 - Sports
+Knowledge Quiz
+Q: The gunpowder plot was a well-known failed assassination attempt against which of England's then reigning monarchs?
+A: James I - History
