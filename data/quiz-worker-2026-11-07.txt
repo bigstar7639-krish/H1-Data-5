@@ -40,3 +40,6 @@ A: 346 - Vehicles
 Auto Quiz - Shanghai 🧠
 Q: Which of these is the name of a Japanese system of alternative medicine, literally meaning "finger pressure"?
 A: Shiatsu - General Knowledge
+Auto Quiz - Chinese Culture 🧠
+Q: What is the name of the famous Apache leader who died in 1909 at the age of 70?
+A: Geronimo - History
