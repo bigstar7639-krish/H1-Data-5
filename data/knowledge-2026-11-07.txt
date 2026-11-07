@@ -657,3 +657,6 @@ A: 200 - General Knowledge
 Knowledge Quiz
 Q: According to the lore of "Starbound", what does the "Colony Deed" do when it is placed down?
 A: Sends out an advertisement for someone to move in. - Entertainment: Video Games
+Knowledge Quiz
+Q: George Orwell wrote this book, which is often considered a statement on government oversight.
+A: 1984 - Entertainment: Books
