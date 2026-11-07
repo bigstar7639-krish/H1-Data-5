@@ -685,3 +685,6 @@ A: Elvis Presley - Entertainment: Film
 Knowledge Quiz
 Q: What is the standard SI unit for time?
 A: Second - Science & Nature
+Knowledge Quiz
+Q: What is the domain name for the country Tuvalu?
+A: .tv - Science: Computers
