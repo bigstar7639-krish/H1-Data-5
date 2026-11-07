@@ -233,3 +233,6 @@ A: Cayde-6 - Entertainment: Video Games
 Knowledge Quiz
 Q: In Minecraft, how many items can a single piece of coal smelt when used in a furnace?
 A: 8 - Entertainment: Video Games
+Knowledge Quiz
+Q: In the 1994 movie "Speed", what is the minimum speed the bus must go to prevent to bomb from exploding?
+A: 50 mph - Entertainment: Film
