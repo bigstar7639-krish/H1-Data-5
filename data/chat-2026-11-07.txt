@@ -26,3 +26,4 @@ Coding Q 1619 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Motivation 1620
 Paravalla! Rest edu - Thirumba try pannu!
+Quote 1621 - Daily try pannu - Jeyichiduva! - Aira
