@@ -754,3 +754,6 @@ A: 2007 - Entertainment: Video Games
 Knowledge Quiz
 Q: What does the DOS in Microsoft's first operating system "MS-DOS" stand for?
 A: Disk Operating System - Science: Computers
+Knowledge Quiz
+Q: The Second Boer War in 1899 was fought where?
+A: South Africa - History
