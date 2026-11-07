@@ -546,3 +546,6 @@ A: Vincent Vega - Entertainment: Film
 Knowledge Quiz
 Q: What country is the Hussarya supercar, made by the car manufacturer "Arrinera", assembled in?
 A: Poland - Vehicles
+Knowledge Quiz
+Q: Which modern day country is the region that was known as Phrygia in ancient times?
+A: Turkey - History
