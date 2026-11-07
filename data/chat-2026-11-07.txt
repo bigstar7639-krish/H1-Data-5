@@ -419,3 +419,4 @@ Recipe 1268 - Snacks - Potato + Masala - Crispy!
 Kavithai 1269 - Un Kural - En Isai! - Aira
 Thirukkural 1270 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Quote 1271 - Daily try pannu - Jeyichiduva! - Aira
+Smart Q 1272 - AI la eppadi jeyikkarathu?
