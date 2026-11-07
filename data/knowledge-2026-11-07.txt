@@ -140,3 +140,6 @@ A: Quake Engine - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the game developer who created "Call Of Duty: Zombies"?
 A: Treyarch - Entertainment: Video Games
+Knowledge Quiz
+Q: What are the first names of the first father and son pair that were both Prime Ministers of Canada?
+A: Justin and Pierre - Politics
