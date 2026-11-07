@@ -632,3 +632,6 @@ A: My Struggle - Entertainment: Books
 Knowledge Quiz
 Q: In the Pokémon series, which type is Sudowoodo, the Imitation Pokémon?
 A: Rock - Entertainment: Video Games
+Knowledge Quiz
+Q: What video game company developed the 2004 racing game "Burnout 3: Takedown"?
+A: Criterion Games - Entertainment: Video Games
