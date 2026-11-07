@@ -996,3 +996,5 @@ Q 1609 - Un life la Smile eppadi irukku?
 Q 1610 - Chennai pathi oru story kekkura?
 Emotion Q 1611 - bored?
 Aira: Bored ah? Joke sollattuma?
+Motivation 1612
+Paravalla! Rest edu - Thirumba try pannu!
