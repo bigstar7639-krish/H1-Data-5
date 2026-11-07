@@ -723,3 +723,6 @@ Knowledge 1559 - Eiffel Tower - Hey buddy! 🙌 Eiffel Tower‑ஐப் ப�
 | Feature | Value |
 |--------|-------|
 | **Height** | **324 m** (including the antenna) – ab
+Knowledge Quiz
+Q: Which of the following is NOT a Nintendo game console?
+A: Dreamcast - Entertainment: Video Games
