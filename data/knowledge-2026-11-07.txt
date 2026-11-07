@@ -437,3 +437,6 @@ A: IMKO-1 - Science: Computers
 Knowledge Quiz
 Q: In "My Little Pony: Friendship is Magic", which of these ponies represents the quality of honesty?
 A: Applejack - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Who is the "dumb blonde" character in Nickelodeon's "The Loud House"?
+A: Leni - Entertainment: Cartoon & Animations
