@@ -431,3 +431,6 @@ A: Aardman Animations - Entertainment: Music
 Knowledge Quiz
 Q: How many unique items does "Borderlands 2" claim to have?
 A: 87 Bazillion  - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the name of the first Bulgarian personal computer?
+A: IMKO-1 - Science: Computers
