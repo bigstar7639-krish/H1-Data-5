@@ -844,3 +844,6 @@ Knowledge 1655 - Heart - Heart pathi sollu - Nalla question! Daily try pannu - J
 Knowledge Quiz
 Q: In what year did the First World War end?
 A: 1918 - History
+Knowledge Quiz
+Q: Which city is the capital of Michigan?
+A: Lansing - Geography
