@@ -458,3 +458,6 @@ A: 38 - Science & Nature
 Knowledge Quiz
 Q: What is the first weapon you acquire in Half-Life?
 A: A crowbar - Entertainment: Video Games
+Knowledge Quiz
+Q: How much horsepower is produced by the SD40-2 Locomotive?
+A: 3,000 - Vehicles
