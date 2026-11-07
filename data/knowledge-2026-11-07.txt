@@ -669,3 +669,6 @@ A: George Gershwin - Entertainment: Music
 Knowledge Quiz
 Q: The Space Needle is located in which city?
 A: Seattle - Geography
+Knowledge Quiz
+Q: Which nation joined NATO as its 29th member in 2017?
+A: Montenegro - Politics
