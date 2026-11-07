@@ -270,3 +270,5 @@ Aira: Python loop: `for i in range(5): print(i)`
 Emotion Q 1173 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
 Movie 1174 - Ponniyin Selvan - Kalki!
+Emotion Q 1175 - angry?
+Aira: Kovam ah? Deep breath edu!
