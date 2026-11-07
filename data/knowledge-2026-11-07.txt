@@ -345,3 +345,6 @@ A: Terry Jones - Entertainment: Television
 Knowledge Quiz
 Q: Which of these actors have NOT played Spiderman in the movies?
 A: Michael Cera - Entertainment: Film
+Knowledge Quiz
+Q: All the following metal elements are liquids at or near room temperature EXCEPT:
+A: Beryllium - Science & Nature
