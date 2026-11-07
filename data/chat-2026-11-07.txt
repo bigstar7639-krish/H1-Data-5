@@ -143,3 +143,5 @@ Coding Q 1105 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Thirukkural 1106 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Recipe 1107 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+World Story 1108
+Oru chinna paris la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
