@@ -555,3 +555,6 @@ A: Strom Thurmond - Politics
 Knowledge Quiz
 Q: The LS7 engine is how many cubic inches?
 A: 427 - Vehicles
+Knowledge Quiz
+Q: What are the chances of being dealt a Royal Flush within Poker/Video Poker?
+A: 1 in 649,740 - Entertainment: Video Games
