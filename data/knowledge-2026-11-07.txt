@@ -682,3 +682,6 @@ A: The Lead Programmer's birthday - Entertainment: Video Games
 Knowledge Quiz
 Q: Which singer is portrayed by Bruce Campbell in the 2002 film 'Bubba Ho-Tep'?
 A: Elvis Presley - Entertainment: Film
+Knowledge Quiz
+Q: What is the standard SI unit for time?
+A: Second - Science & Nature
