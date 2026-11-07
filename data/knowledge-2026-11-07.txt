@@ -629,3 +629,6 @@ A: At the theatre - History
 Knowledge Quiz
 Q: The title of Adolf Hitler's autobiography "Mein Kampf" is what when translated to English?
 A: My Struggle - Entertainment: Books
+Knowledge Quiz
+Q: In the Pokémon series, which type is Sudowoodo, the Imitation Pokémon?
+A: Rock - Entertainment: Video Games
