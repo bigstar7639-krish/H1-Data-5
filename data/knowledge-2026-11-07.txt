@@ -107,3 +107,6 @@ A: Butt - Science & Nature
 Knowledge Quiz
 Q: What Ultimate does Makoto Naegi, protagonist of Danganronpa: Trigger Happy Havoc, have? 
 A: Ultimate Lucky Student - Entertainment: Video Games
+Knowledge Quiz
+Q: Which computer language would you associate Django framework with?
+A: Python - Science: Computers
