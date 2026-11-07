@@ -462,3 +462,4 @@ Smart Q 1293 - Bored la eppadi jeyikkarathu?
 Coding Q 1294 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Pazhamozhi 1295 - Sontha Kaal la Ninnu - Jeyippa!
+Business Idea 1296 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
