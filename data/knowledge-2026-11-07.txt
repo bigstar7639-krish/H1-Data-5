@@ -410,3 +410,6 @@ A: Sal DeLuca and Finn O'Leary - Entertainment: Video Games
 Knowledge Quiz
 Q: Who played Agent Fox Mulder in the TV sci-fi drama "The X-Files"?
 A: David Duchovny - Entertainment: Television
+Knowledge Quiz
+Q: Which retro video game was released first?
+A: Space Invaders - Entertainment: Video Games
