@@ -407,3 +407,6 @@ A: Amarr Empire - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Call Of Duty: Zombies", "Richtofen" is in possession of two filled blood vials belonging to who?
 A: Sal DeLuca and Finn O'Leary - Entertainment: Video Games
+Knowledge Quiz
+Q: Who played Agent Fox Mulder in the TV sci-fi drama "The X-Files"?
+A: David Duchovny - Entertainment: Television
