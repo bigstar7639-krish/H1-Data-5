@@ -406,3 +406,5 @@ Thirukkural 1259 - Anbu - Ellam Tharum! - Thirukkural
 Coding Q 1260 - React la component enna?
 Aira: React component - Chinna piece!
 Recipe 1261 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Motivation 1262
+Paravalla! Rest edu - Thirumba try pannu!
