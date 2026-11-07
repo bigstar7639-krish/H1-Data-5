@@ -315,3 +315,6 @@ A: Hudson Mohawke - Entertainment: Video Games
 Knowledge Quiz
 Q: Which genre of music is John Coltrane primarily associated with?
 A: Jazz - Entertainment: Music
+Knowledge Quiz
+Q: In which English county is the city of Portsmouth?
+A: Hampshire - Geography
