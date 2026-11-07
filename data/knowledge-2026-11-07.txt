@@ -573,3 +573,6 @@ A: Austin - Geography
 Knowledge Quiz
 Q: Who published the 1998 video game Half-Life?
 A: Sierra On-Line - Entertainment: Video Games
+Knowledge Quiz
+Q: In "The Hobbit," who was head of the White Council? 
+A: Saruman - Entertainment: Film
