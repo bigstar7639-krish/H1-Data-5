@@ -286,3 +286,4 @@ Recipe 1184 - Cake - Maida + Sugar + Egg + 30 min!
 Recipe 1185 - Cake - Maida + Sugar + Egg + 30 min!
 Q 1186 - Un life la Movie eppadi irukku?
 Fact 48 - Octopus ku 3 heart!
+Recipe 1188 - Snacks - Potato + Masala - Crispy!
