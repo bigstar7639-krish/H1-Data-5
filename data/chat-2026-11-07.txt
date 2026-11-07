@@ -16,3 +16,4 @@ En life‑la **tree** super strong and vibrant ah irukku. 🌳
 Coding Q 1612 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Game 1613 - Coin Toss - Ne Toss nu Sollu! 🎮
+Recipe 1614 - Snacks - Potato + Masala - Crispy! 🍔
