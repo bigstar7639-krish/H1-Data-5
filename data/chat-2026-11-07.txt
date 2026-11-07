@@ -736,3 +736,4 @@ World Story 1458
 Oru chinna new york la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Quote 1459 - Daily try pannu - Jeyichiduva! - Aira
 Thirukkural 1460 - Porumai - Periya Sakthi! - Thirukkural
+Talk 1461 - Einstein pathi pesalama? Sollu!
