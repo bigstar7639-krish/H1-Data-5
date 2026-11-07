@@ -561,3 +561,6 @@ A: 1 in 649,740 - Entertainment: Video Games
 Knowledge Quiz
 Q: Alzheimer's disease primarily affects which part of the human body?
 A: Brain - Science & Nature
+Knowledge Quiz
+Q: In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?
+A: The HECU - Entertainment: Video Games
