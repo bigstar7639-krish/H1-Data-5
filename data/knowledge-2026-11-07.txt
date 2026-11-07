@@ -726,3 +726,6 @@ Knowledge 1559 - Eiffel Tower - Hey buddy! 🙌 Eiffel Tower‑ஐப் ப�
 Knowledge Quiz
 Q: Which of the following is NOT a Nintendo game console?
 A: Dreamcast - Entertainment: Video Games
+Knowledge Quiz
+Q: Which buzzword did Apple Inc. use to describe their removal of the headphone jack?
+A: Courage - Science: Gadgets
