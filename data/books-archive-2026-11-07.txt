@@ -68,3 +68,4 @@ Beach - SunnyBeachVox - Sunny Beach Vox
 Beach - daytona-beach-daily-news-1912-12-23 - Daytona Beach Daily News (1912-12-23)
 Forest - bwb_C0-AQJ-625 - The enchanted forest
 Forest - forestsea0000unse_e9d3 - the forest and the sea
+Desert - principalregular0000nsch - principal regularities of the desert locust plagues and swarm migrations
