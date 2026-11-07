@@ -582,3 +582,6 @@ A: 1958 - History
 Knowledge Quiz
 Q: What is the symbol for Displacement?
 A: Δr - Science: Mathematics
+Knowledge Quiz
+Q: Which game did "Sonic The Hedgehog" make his first appearance in?
+A: Rad Mobile - Entertainment: Video Games
