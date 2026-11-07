@@ -212,3 +212,4 @@ Knowledge 1141 - Tokyo - Tokyo pathi sollu - Nalla question! Daily try pannu - J
 Quote 1142 - Daily try pannu - Jeyichiduva! - Aira
 Knowledge 1143 - Egypt - Egypt pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Pazhamozhi 1144 - Porumai - Perumai Tharum!
+Talk 1145 - Robot pathi pesalama? Sollu!
