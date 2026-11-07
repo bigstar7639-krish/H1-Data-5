@@ -798,3 +798,6 @@ A: November 4, 1952 - History
 Knowledge Quiz
 Q: M.U.G.E.N. is the name for what type of Game Engine?
 A: Fighting Game - Entertainment: Video Games
+Knowledge Quiz
+Q: When was the United States National Security Agency established?
+A: November 4, 1952 - History
