@@ -110,3 +110,6 @@ A: Ultimate Lucky Student - Entertainment: Video Games
 Knowledge Quiz
 Q: Which computer language would you associate Django framework with?
 A: Python - Science: Computers
+Knowledge Quiz
+Q: Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?
+A: Ed Sheeran - I See Fire - General Knowledge
