@@ -586,3 +586,4 @@ Quote 1367 - Daily try pannu - Jeyichiduva! - Aira
 Emotion Q 1368 - excited?
 Aira: Excited ah! Sollu!
 Kavithai 1369 - Un Sirippu - En Vazhkai! - Aira
+Recipe 1370 - Cake - Maida + Sugar + Egg + 30 min!
