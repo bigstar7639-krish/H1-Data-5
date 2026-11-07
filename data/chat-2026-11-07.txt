@@ -739,3 +739,4 @@ Thirukkural 1460 - Porumai - Periya Sakthi! - Thirukkural
 Talk 1461 - Einstein pathi pesalama? Sollu!
 Coding Q 1462 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Smart Q 1463 - Meditation la eppadi jeyikkarathu?
