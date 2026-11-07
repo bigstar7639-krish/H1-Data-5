@@ -221,3 +221,6 @@ A: 90 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the 2015 RPG "Undertale", which character do you first encounter after falling down into the underground?
 A: Flowey - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the full title of the Prime Minister of the UK?
+A: First Lord of the Treasury - General Knowledge
