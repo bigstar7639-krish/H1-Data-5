@@ -642,3 +642,6 @@ A: 6 - History
 Knowledge Quiz
 Q: Which country does Austria not border?
 A: France - Geography
+Knowledge Quiz
+Q: In the Kingdom Heart series who provides the english voice for Master Eraqus?
+A: Mark Hamill - Entertainment: Video Games
