@@ -732,3 +732,6 @@ A: Courage - Science: Gadgets
 Knowledge Quiz
 Q: What date is referenced in the 1971 song "September" by Earth, Wind & Fire?
 A: 21st of September - Entertainment: Music
+Knowledge Quiz
+Q: Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?
+A: Cretaceous-Paleogene - Science & Nature
