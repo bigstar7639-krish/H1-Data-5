@@ -131,3 +131,6 @@ Knowledge 1124 - Einstein - Hey buddy! Einstein‑a pathi konjam Tamil‑Tangl
 2. **General Theory of Relativity (1915)**  
    - Gravity‑a “space‑time curvature”‑a explain pannaar. Massive object‑gal space‑time‑a bend pannum, adhukaala gravity feel aagum.  
    - 1919‑la solar eclipse‑la light‑a bend aagudhu nu confirm aachu, Einstein‑oda fame 
+Knowledge Quiz
+Q: Which of the following computer components can be built using only NAND gates?
+A: ALU - Science: Computers
