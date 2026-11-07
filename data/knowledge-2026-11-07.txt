@@ -336,3 +336,6 @@ A: Overlay at least 2 Monsters of the Same Level - Entertainment: Board Games
 Knowledge Quiz
 Q: What year did the popular Vocaloid: Hatsune Miku come out?
 A: 2007 - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: How many French Open's did Björn Borg win?
+A: 6 - Sports
