@@ -831,3 +831,6 @@ A: United Kingdom - Geography
 Knowledge Quiz
 Q: Who had a 1973 hit with the song 'Hocus Pocus'?
 A: Focus - Entertainment: Music
+Knowledge Quiz
+Q: Who is the bassist of the British rock band Queen?
+A: John Deacon - Entertainment: Music
