@@ -543,3 +543,6 @@ A: Lucky Lady Feel So Good  - Entertainment: Music
 Knowledge Quiz
 Q: Who in Pulp Fiction says "No, they got the metric system there, they wouldn't know what the f*** a Quarter Pounder is."
 A: Vincent Vega - Entertainment: Film
+Knowledge Quiz
+Q: What country is the Hussarya supercar, made by the car manufacturer "Arrinera", assembled in?
+A: Poland - Vehicles
