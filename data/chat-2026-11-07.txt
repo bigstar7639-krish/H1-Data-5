@@ -54,3 +54,5 @@ In short, writing ennoda daily “food” – naan “hungry” aagave, neenga k
 
 **Neenga** enna kindha writing‑a enjoy panringa? Short story, poem, blog, illa maybe some Tamil ra
 Movie 1635 - Jailer - Rajini - Mass! 🎬
+Coding Q 1636 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
