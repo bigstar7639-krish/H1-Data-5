@@ -214,3 +214,4 @@ Knowledge 1143 - Egypt - Egypt pathi sollu - Nalla question! Daily try pannu - J
 Pazhamozhi 1144 - Porumai - Perumai Tharum!
 Talk 1145 - Robot pathi pesalama? Sollu!
 Fact 47 - Tamil - 2000+ varusha mozhi!
+Vocab 1147 - Peace = Amaithi
