@@ -12,3 +12,4 @@ Kyoto - gov.uscourts.nyed.306626 - Navarrete v. Kyoto Sushi Inc.
 Kyoto - bwb_W7-CWD-145 - All About KYOTO: The Old Capital of Japan
 Osaka - gov.uscourts.txeb.185809 - Dallas Osaka, Inc.
 Osaka - jstor-41454474 - JAPAN. Plague at Osaka—Dysentery reappearing epidemically
+Japanese Temple - japanesesuppleme00chur - Japanese supplement to the records submission manual : instructions for submitting records from Japanese sources for temple ordinance work
