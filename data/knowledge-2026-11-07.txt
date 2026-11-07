@@ -825,3 +825,6 @@ A: Brawler, Rush, Beast, Legend - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the oldest US state?
 A: Delaware - History
+Knowledge Quiz
+Q: Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?
+A: United Kingdom - Geography
