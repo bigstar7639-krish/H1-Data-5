@@ -819,3 +819,6 @@ A: Sri Lanka - Geography
 Knowledge Quiz
 Q: Valve Corporation is an American video game developer located in which city?
 A: Bellevue, Washington - Entertainment: Video Games
+Knowledge Quiz
+Q: In Yakuza 0, what is the order of the fighting styles acquired as Kazuma Kiryu?
+A: Brawler, Rush, Beast, Legend - Entertainment: Video Games
