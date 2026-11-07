@@ -155,3 +155,5 @@ Joke 1114
 Teacher: Yen late? Student: School Ahead board!
 Talk 1115 - Game pathi pesalama? Sollu!
 Pazhamozhi 1116 - Aalai Paathu - Aadi Paaru!
+Story 1117
+Oru chennai la oru student irunthan! Daily coding pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
