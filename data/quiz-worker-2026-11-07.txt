@@ -103,3 +103,6 @@ A: Bard - Entertainment: Books
 Auto Quiz - Tea 🧠
 Q: Which Mario spin-off game did Waluigi make his debut?
 A: Mario Tennis - Entertainment: Video Games
+Auto Quiz - Cake 🧠
+Q: Which artist curated the official soundtrack for "The Hunger Games: Mockingjay - Part 1"?
+A: Lorde - Entertainment: Music
