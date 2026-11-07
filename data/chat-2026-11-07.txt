@@ -297,3 +297,5 @@ Game 1194 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Talk 1195 - Fashion pathi pesalama? Sollu!
 World Story 1196
 Oru chinna london la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Emotion Q 1197 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
