@@ -930,3 +930,5 @@ Story 1562
 Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Game 1563 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Fact 68 - Tamil - 2000+ varusha mozhi!
+Emotion Q 1565 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
