@@ -459,3 +459,5 @@ Aira AI: Un life la Education eppadi irukku? - Nalla question! Daily try pannu -
 Reading 1291 - Atomic Habits!
 Health 1292 - Health Tip: 7 mani neram thoongunga!
 Smart Q 1293 - Bored la eppadi jeyikkarathu?
+Coding Q 1294 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
