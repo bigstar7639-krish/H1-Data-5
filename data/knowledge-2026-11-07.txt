@@ -68,3 +68,6 @@ A: Ira Levin - Entertainment: Books
 Knowledge Quiz 🧠
 Q: What is an example of a bacterial pathogen?
 A: Cholera - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+A: ADPCM Sampler - Science: Computers
