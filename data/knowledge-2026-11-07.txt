@@ -663,3 +663,6 @@ A: 1984 - Entertainment: Books
 Knowledge Quiz
 Q: Which Iron Maiden album did the song "Dream of Mirrors" feature in?
 A: Brave New World - Entertainment: Music
+Knowledge Quiz
+Q: Who wrote the musical composition, "Rhapsody In Blue"?
+A: George Gershwin - Entertainment: Music
