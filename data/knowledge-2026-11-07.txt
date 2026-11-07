@@ -230,3 +230,6 @@ A: Southeast - General Knowledge
 Knowledge Quiz
 Q: Which of the following is a character in the video game Destiny?
 A: Cayde-6 - Entertainment: Video Games
+Knowledge Quiz
+Q: In Minecraft, how many items can a single piece of coal smelt when used in a furnace?
+A: 8 - Entertainment: Video Games
