@@ -483,3 +483,5 @@ Aira: HTML button: `<button>Click</button>`
 Q 1300 - Ne Career la eppadi improve panna mudiyum?
 Kavithai 1301 - Un Sirippu - En Vazhkai! - Aira
 Pazhamozhi 1302 - Sontha Kaal la Ninnu - Jeyippa!
+Emotion Q 1303 - lonely?
+Aira: Lonely ah? Aira irukka la!
