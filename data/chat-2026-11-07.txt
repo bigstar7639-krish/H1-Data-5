@@ -426,3 +426,4 @@ World Story 1274
 Oru chinna oor la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 1275 - Success = Vetri
 Game 1276 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Recipe 1277 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
