@@ -486,3 +486,6 @@ A: Increase in blood sodium - Science & Nature
 Knowledge Quiz
 Q: In the world strategy game 'Sid Meier's Civilization', a programming bug caused the AI depiction of Gandhi to do which of the following?
 A: Become aggressive and launch nuclear strikes - Entertainment: Video Games
+Knowledge Quiz
+Q: During the Spanish Civil War (1936), Francisco Franco fought for which political faction?
+A: Nationalist Spain - History
