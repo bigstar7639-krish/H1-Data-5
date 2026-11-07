@@ -552,3 +552,6 @@ A: Turkey - History
 Knowledge Quiz
 Q: Which of the following United States senators is known for performing a 24-hour long filibuster?
 A: Strom Thurmond - Politics
+Knowledge Quiz
+Q: The LS7 engine is how many cubic inches?
+A: 427 - Vehicles
