@@ -212,3 +212,6 @@ A: John Steinbeck - Entertainment: Books
 Knowledge Quiz
 Q: What video game company developed the 2004 racing game "Burnout 3: Takedown"?
 A: Criterion Games - Entertainment: Video Games
+Knowledge Quiz
+Q: In the game Tom Clancy's Rainbow 6 Siege, what organization is Valkyrie from?
+A: Navy Seals - Entertainment: Video Games
