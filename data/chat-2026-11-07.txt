@@ -583,3 +583,5 @@ Aira: Bayam - Normal! Ne jeyichiduva!
 Story 1366
 Oru chinna village la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Quote 1367 - Daily try pannu - Jeyichiduva! - Aira
+Emotion Q 1368 - excited?
+Aira: Excited ah! Sollu!
