@@ -434,3 +434,6 @@ A: 87 Bazillion  - Entertainment: Video Games
 Knowledge Quiz
 Q: What was the name of the first Bulgarian personal computer?
 A: IMKO-1 - Science: Computers
+Knowledge Quiz
+Q: In "My Little Pony: Friendship is Magic", which of these ponies represents the quality of honesty?
+A: Applejack - Entertainment: Cartoon & Animations
