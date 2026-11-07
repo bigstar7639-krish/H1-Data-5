@@ -134,3 +134,6 @@ Knowledge 1124 - Einstein - Hey buddy! Einstein‑a pathi konjam Tamil‑Tangl
 Knowledge Quiz
 Q: Which of the following computer components can be built using only NAND gates?
 A: ALU - Science: Computers
+Knowledge Quiz
+Q: Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?
+A: Quake Engine - Entertainment: Video Games
