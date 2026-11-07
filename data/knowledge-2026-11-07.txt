@@ -413,3 +413,6 @@ A: David Duchovny - Entertainment: Television
 Knowledge Quiz
 Q: Which retro video game was released first?
 A: Space Invaders - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of a rabbit's abode?
+A: Burrow - Animals
