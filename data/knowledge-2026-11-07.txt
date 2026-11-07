@@ -660,3 +660,6 @@ A: Sends out an advertisement for someone to move in. - Entertainment: Video Gam
 Knowledge Quiz
 Q: George Orwell wrote this book, which is often considered a statement on government oversight.
 A: 1984 - Entertainment: Books
+Knowledge Quiz
+Q: Which Iron Maiden album did the song "Dream of Mirrors" feature in?
+A: Brave New World - Entertainment: Music
