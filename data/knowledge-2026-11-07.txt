@@ -372,3 +372,6 @@ A: Poland - History
 Knowledge Quiz
 Q: Which of the following ancient peoples was NOT classified as Hellenic (Greek)?
 A: Illyrians - History
+Knowledge Quiz
+Q: Which Greek sculptor designed the Athena Parthenos statue inside the Parthenon?
+A: Phidias - Art
