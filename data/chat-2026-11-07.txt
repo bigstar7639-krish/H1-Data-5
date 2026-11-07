@@ -626,3 +626,16 @@ Reading 1400 - Ramayana!
 Emotion Q 1401 - excited?
 Aira: Excited ah! Sollu!
 Talk 1402 - AI pathi pesalama? Sollu!
+Aira AI: Hey! Biology‑la improve pannurathukku **consistent study habit** kooda, **right resources** kooda romba important. I’ll give you a step‑by‑step plan, mix of Tamil‑Tanglish, so you can follow easily. 😊
+
+---
+
+## 1️⃣ Syllabus‑a Break Down Pannunga
+- **NCERT** (or your board’s textbook) – ithu basics‑a cover pannum, especially diagrams, definitions, processes.  
+- **Weightage** – exam‑la yaaru topics heavy‑a appear pannuthu nu check pannunga (past‑year papers, exam‑guide).  
+- **Create a mind‑map** – each chapter‑a 2‑3 main sub‑topics‑la split panni, quick‑review sheet ready pannu.
+
+## 2️⃣ Daily Study Routine (30‑45 min blocks)
+| Time | What to do |
+|------|------------|
+| **Day‑1** | **Read** chapter – focus on concepts, not just words. Highlight key terms (e.g., *photosynthesis, osmosis*). |
