@@ -378,3 +378,6 @@ A: Phidias - Art
 Knowledge Quiz
 Q: The LS2 engine is how many cubic inches?
 A: 364 - Vehicles
+Knowledge Quiz
+Q: What is the state capital of South Dakota?
+A: Pierre - Geography
