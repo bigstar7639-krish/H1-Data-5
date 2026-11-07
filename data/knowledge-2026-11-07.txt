@@ -688,3 +688,6 @@ A: Second - Science & Nature
 Knowledge Quiz
 Q: What is the domain name for the country Tuvalu?
 A: .tv - Science: Computers
+Knowledge Quiz
+Q: Prior to working at Wizards of the Coast, "Mark Rosewater" was a writer for which show?
+A: Roseanne - Entertainment: Television
