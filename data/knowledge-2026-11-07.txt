@@ -735,3 +735,6 @@ A: 21st of September - Entertainment: Music
 Knowledge Quiz
 Q: Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?
 A: Cretaceous-Paleogene - Science & Nature
+Knowledge Quiz
+Q: In the video game "Postal 2", what is the name of Postal Dude's dog?
+A: Champ - Entertainment: Video Games
