@@ -333,3 +333,6 @@ A: Dodge M4S - Entertainment: Film
 Knowledge Quiz
 Q: In Yu-Gi-Oh, how does a player perform an Xyz Summon?
 A: Overlay at least 2 Monsters of the Same Level - Entertainment: Board Games
+Knowledge Quiz
+Q: What year did the popular Vocaloid: Hatsune Miku come out?
+A: 2007 - Entertainment: Japanese Anime & Manga
