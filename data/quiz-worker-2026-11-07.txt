@@ -79,3 +79,6 @@ A: Dreamcast - Entertainment: Video Games
 Auto Quiz - Bangalore 🧠
 Q: What internet protocol was documented in RFC 1459?
 A: IRC - Science: Computers
+Auto Quiz - Hyderabad 🧠
+Q: What is the code name of Morgana the cat in Persona 5?
+A: Mona - Entertainment: Video Games
