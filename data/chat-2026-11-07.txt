@@ -252,3 +252,4 @@ World Story 1159
 Oru delhi la oru doctor irunthan! Daily try pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Movie 1160 - Jailer - Rajini - Mass!
 Recipe 1161 - Snacks - Potato + Masala - Crispy!
+Recipe 1162 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
