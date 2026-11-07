@@ -691,3 +691,6 @@ A: .tv - Science: Computers
 Knowledge Quiz
 Q: Prior to working at Wizards of the Coast, "Mark Rosewater" was a writer for which show?
 A: Roseanne - Entertainment: Television
+Knowledge Quiz
+Q: The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?
+A: Justinian I - History
