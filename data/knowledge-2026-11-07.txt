@@ -416,3 +416,6 @@ A: Space Invaders - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of a rabbit's abode?
 A: Burrow - Animals
+Knowledge Quiz
+Q: Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?
+A: Golden Mushroom - Entertainment: Video Games
