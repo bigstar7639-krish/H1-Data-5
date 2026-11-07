@@ -480,3 +480,4 @@ Knowledge 1298 - Bharathiyar - Hey friend! 🙌
 - **Magazines:** *Kalki* (1904) இல் “**கங்கை**” என்ற பத்தியைக் கொண்டு வரவேற்பு பெற்றார், பின்னர் *India* (London) and *Bharati* (Madras) போன்ற newspapers‑இல் எழுதினார
 Coding Q 1299 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Q 1300 - Ne Career la eppadi improve panna mudiyum?
