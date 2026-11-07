@@ -741,3 +741,4 @@ Coding Q 1462 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Smart Q 1463 - Meditation la eppadi jeyikkarathu?
 Talk 1464 - Power pathi pesalama? Sollu!
+Thirukkural 1465 - Porumai - Periya Sakthi! - Thirukkural
