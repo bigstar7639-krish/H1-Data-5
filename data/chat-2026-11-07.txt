@@ -279,3 +279,4 @@ World Story 1179
 Oru chinna sea la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Q 1180 - Economics pathi oru story kekkura?
 Vocab 1181 - Friend = Nanban
+Game 1182 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
