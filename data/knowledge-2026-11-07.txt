@@ -143,3 +143,6 @@ A: Treyarch - Entertainment: Video Games
 Knowledge Quiz
 Q: What are the first names of the first father and son pair that were both Prime Ministers of Canada?
 A: Justin and Pierre - Politics
+Knowledge Quiz
+Q: What is the name the location-based augmented reality game developed by Niantic before Pokémon GO?
+A: Ingress - Entertainment: Video Games
