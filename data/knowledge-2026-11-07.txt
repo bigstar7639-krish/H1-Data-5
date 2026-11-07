@@ -146,3 +146,6 @@ A: Justin and Pierre - Politics
 Knowledge Quiz
 Q: What is the name the location-based augmented reality game developed by Niantic before Pokémon GO?
 A: Ingress - Entertainment: Video Games
+Knowledge Quiz
+Q: How many countries does the United States share a land border with?
+A: 2 - Geography
