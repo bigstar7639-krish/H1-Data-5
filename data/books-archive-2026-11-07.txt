@@ -10,3 +10,4 @@ Sushi - isbn_9781405483162 - Sushi a Classic Collection of Japanese S
 Sushi - gov.uscourts.flsd.430949 - Kiriacon v. Buddha Sushi Bar, LLC
 Kyoto - gov.uscourts.nyed.306626 - Navarrete v. Kyoto Sushi Inc.
 Kyoto - bwb_W7-CWD-145 - All About KYOTO: The Old Capital of Japan
+Osaka - gov.uscourts.txeb.185809 - Dallas Osaka, Inc.
