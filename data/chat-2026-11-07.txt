@@ -980,3 +980,4 @@ Oru chinna village la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala!
 Health 1595 - Health Tip: Daily 8 glass water kudinga!
 Business Idea 1596 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Kavithai 1597 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Thirukkural 1598 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
