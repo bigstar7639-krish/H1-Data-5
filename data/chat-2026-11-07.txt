@@ -778,3 +778,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Fact 64 - Octopus ku 3 heart!
 Movie 1486 - Jailer - Rajini - Mass!
 Vocab 1487 - Love = Kadhal
+Recipe 1488 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
