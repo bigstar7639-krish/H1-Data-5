@@ -694,3 +694,5 @@ Game 1433 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Health 1434 - Yoga Tip: Daily 5 min deep breath edu!
 Quote 1435 - Daily try pannu - Jeyichiduva! - Aira
 Business Idea 1436 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Story 1437
+Oru madurai la oru ponnu irunthan! Daily travel pannan pannan! Oru naal book kedaichuchu! Life maariduchu!
