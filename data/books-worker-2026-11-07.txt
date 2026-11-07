@@ -41,3 +41,4 @@ Panda - Panda Bear, Panda Bear, what do you see?
 Panda - Python For Data Analysis
 Panda - The Panda's Thumb
 Chinese Food - The Fortune Cookie Chronicles
+Chinese Food - Ching's Chinese Food in Minutes
