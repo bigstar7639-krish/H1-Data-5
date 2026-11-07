@@ -810,3 +810,6 @@ A: Cherry MX Blue - Science: Computers
 Knowledge Quiz
 Q: Who was the Prime Minister of the United Kingdom for most of World War II?
 A: Winston Churchill - History
+Knowledge Quiz
+Q: In "PAYDAY 2", what weapon has the highest base weapon damage on a per-shot basis?
+A: HRL-7 - Entertainment: Video Games
