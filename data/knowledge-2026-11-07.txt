@@ -339,3 +339,6 @@ A: 2007 - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: How many French Open's did Björn Borg win?
 A: 6 - Sports
+Knowledge Quiz
+Q: Who played the Waitress in the Spam sketch of "Monty Python's Flying Circus"?
+A: Terry Jones - Entertainment: Television
