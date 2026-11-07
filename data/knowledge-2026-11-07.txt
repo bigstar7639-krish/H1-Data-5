@@ -455,3 +455,6 @@ A: Star Wars - History
 Knowledge Quiz
 Q: What is the atomic number of the element Strontium?
 A: 38 - Science & Nature
+Knowledge Quiz
+Q: What is the first weapon you acquire in Half-Life?
+A: A crowbar - Entertainment: Video Games
