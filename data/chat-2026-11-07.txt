@@ -139,3 +139,5 @@ Business Idea 1101 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Business Idea 1102 - Instagram Page - Daily 1 Post!
 Quote 1103 - Daily try pannu - Jeyichiduva! - Aira
 Kavithai 1104 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Coding Q 1105 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
