@@ -626,3 +626,6 @@ A: LB&SCR A1X - Vehicles
 Knowledge Quiz
 Q: Where was Abraham Lincoln when he was assassinated by John Wilkes Booth in 1865?
 A: At the theatre - History
+Knowledge Quiz
+Q: The title of Adolf Hitler's autobiography "Mein Kampf" is what when translated to English?
+A: My Struggle - Entertainment: Books
