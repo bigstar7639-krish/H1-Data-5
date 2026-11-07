@@ -356,3 +356,5 @@ Game 1230 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Recipe 1231 - Snacks - Potato + Masala - Crispy!
 Recipe 1232 - Cake - Maida + Sugar + Egg + 30 min!
 Thirukkural 1233 - Anbu - Ellam Tharum! - Thirukkural
+Joke 1234
+Teacher: Yen late? Student: School Ahead board!
