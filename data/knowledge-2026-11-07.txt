@@ -375,3 +375,6 @@ A: Illyrians - History
 Knowledge Quiz
 Q: Which Greek sculptor designed the Athena Parthenos statue inside the Parthenon?
 A: Phidias - Art
+Knowledge Quiz
+Q: The LS2 engine is how many cubic inches?
+A: 364 - Vehicles
