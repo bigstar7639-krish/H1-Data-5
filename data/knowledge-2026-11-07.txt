@@ -531,3 +531,6 @@ A: Replicants - Entertainment: Film
 Knowledge Quiz
 Q: Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?
 A: Rose Marene - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: What genetic disease is caused by having an extra Y chromosome (XYY)?
+A: Jacob's Syndrome - Science & Nature
