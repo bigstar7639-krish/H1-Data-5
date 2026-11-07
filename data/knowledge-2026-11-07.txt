@@ -576,3 +576,6 @@ A: Sierra On-Line - Entertainment: Video Games
 Knowledge Quiz
 Q: In "The Hobbit," who was head of the White Council? 
 A: Saruman - Entertainment: Film
+Knowledge Quiz
+Q: What year was the first Pizza Hut restaurant opened?
+A: 1958 - History
