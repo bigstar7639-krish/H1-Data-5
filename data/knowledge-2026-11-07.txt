@@ -209,3 +209,6 @@ Knowledge 1170 - Confidence - Confidence pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?
 A: John Steinbeck - Entertainment: Books
+Knowledge Quiz
+Q: What video game company developed the 2004 racing game "Burnout 3: Takedown"?
+A: Criterion Games - Entertainment: Video Games
