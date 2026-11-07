@@ -280,3 +280,5 @@ Oru chinna sea la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana
 Q 1180 - Economics pathi oru story kekkura?
 Vocab 1181 - Friend = Nanban
 Game 1182 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Story 1183
+Oru chinna tokyo la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
