@@ -359,3 +359,18 @@ Thirukkural 1233 - Anbu - Ellam Tharum! - Thirukkural
 Joke 1234
 Teacher: Yen late? Student: School Ahead board!
 Smart Q 1235 - India la eppadi jeyikkarathu?
+Knowledge 1236 - Climate - Hey buddy! 🌍 Let’s chat about **climate** – or as we say in Tamil, **"வானிலை"**. I’ll sprinkle a little Tanglish, a dash of other languages, and keep it friendly and easy‑to‑digest. Ready? Let’s go!
+
+---
+
+## 1️⃣ What’s “climate” anyway?  
+**Climate** = the long‑term average of weather patterns (temperature, rain, wind, etc.) over **30 years or more** in a particular region.  
+- **Weather** = what you feel today – “இன்று வெயில், நாளை மழை.”  
+- **Climate** = the *trend* – “இந்தப் பகுதியில் கோடைக்காலம் சூடாக, மழைக்காலம் அதிகம் மழை பெய்யும்.”
+
+---
+
+## 2️⃣ Main Climate Zones (Köppen Classification)  
+| Zone | Typical Features | Tamil Name | Example Countries |
+|------|------------------|-----------|-------------------|
+| **A – Tropical** | Warm all year, heavy rain 🌧️ | வெப்ப மண்டலம் | Brazil, 
