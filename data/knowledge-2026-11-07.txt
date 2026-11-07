@@ -342,3 +342,6 @@ A: 6 - Sports
 Knowledge Quiz
 Q: Who played the Waitress in the Spam sketch of "Monty Python's Flying Circus"?
 A: Terry Jones - Entertainment: Television
+Knowledge Quiz
+Q: Which of these actors have NOT played Spiderman in the movies?
+A: Michael Cera - Entertainment: Film
