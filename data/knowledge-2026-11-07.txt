@@ -282,3 +282,6 @@ A: The Landlord's Game - Entertainment: Board Games
 Knowledge Quiz
 Q: On which continent does the Andes mountain range lie?
 A: South America - Geography
+Knowledge Quiz
+Q: What is the capital of Seychelles?
+A: Victoria - Geography
