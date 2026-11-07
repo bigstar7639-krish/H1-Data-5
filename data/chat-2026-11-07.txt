@@ -403,3 +403,5 @@ Talk 1256 - Future pathi pesalama? Sollu!
 Pazhamozhi 1257 - Sontha Kaal la Ninnu - Jeyippa!
 Thirukkural 1258 - Anbu - Ellam Tharum! - Thirukkural
 Thirukkural 1259 - Anbu - Ellam Tharum! - Thirukkural
+Coding Q 1260 - React la component enna?
+Aira: React component - Chinna piece!
