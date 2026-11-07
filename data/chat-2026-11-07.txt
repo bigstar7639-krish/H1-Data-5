@@ -512,3 +512,5 @@ Aira: Website - HTML + CSS + JS!
 Fact 55 - Tamil - 2000+ varusha mozhi!
 Movie 1324 - Leo - Vijay - Action!
 Kavithai 1325 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Coding Q 1326 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
