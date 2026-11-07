@@ -666,3 +666,6 @@ A: Brave New World - Entertainment: Music
 Knowledge Quiz
 Q: Who wrote the musical composition, "Rhapsody In Blue"?
 A: George Gershwin - Entertainment: Music
+Knowledge Quiz
+Q: The Space Needle is located in which city?
+A: Seattle - Geography
