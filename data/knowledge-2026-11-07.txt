@@ -751,3 +751,6 @@ A: Crescent Rose - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What year was the game Team Fortress 2 released?
 A: 2007 - Entertainment: Video Games
+Knowledge Quiz
+Q: What does the DOS in Microsoft's first operating system "MS-DOS" stand for?
+A: Disk Operating System - Science: Computers
