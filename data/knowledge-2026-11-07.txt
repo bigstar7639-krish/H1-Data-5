@@ -489,3 +489,6 @@ A: Become aggressive and launch nuclear strikes - Entertainment: Video Games
 Knowledge Quiz
 Q: During the Spanish Civil War (1936), Francisco Franco fought for which political faction?
 A: Nationalist Spain - History
+Knowledge Quiz
+Q: What is the capital of Australia?
+A: Canberra - Geography
