@@ -948,3 +948,5 @@ Knowledge 1576 - Motivation - Motivation pathi sollu - Nalla question! Daily try
 Coding Q 1577 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Reading 1578 - Ramayana!
+Emotion Q 1579 - love?
+Aira: Kadhal - Azhagu!
