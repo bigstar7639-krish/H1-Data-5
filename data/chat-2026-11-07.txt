@@ -255,3 +255,4 @@ Recipe 1161 - Snacks - Potato + Masala - Crispy!
 Recipe 1162 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Motivation 1163
 Paravalla! Rest edu - Thirumba try pannu!
+Recipe 1164 - Snacks - Potato + Masala - Crispy!
