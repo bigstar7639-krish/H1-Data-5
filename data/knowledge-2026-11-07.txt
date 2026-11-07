@@ -401,3 +401,6 @@ A: Matthew "Rickety Cricket" Mara - Entertainment: Television
 Knowledge Quiz
 Q: What is the scientific name of the cheetah?
 A: Acinonyx jubatus - Animals
+Knowledge Quiz
+Q: Which of the four empires in  Eve Online was the first to achieve faster than light travel?
+A: Amarr Empire - Entertainment: Video Games
