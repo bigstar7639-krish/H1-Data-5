@@ -804,3 +804,6 @@ A: November 4, 1952 - History
 Knowledge Quiz
 Q: In what Homestuck Update was [S] Game Over released?
 A: October 25th, 2014 - Entertainment: Comics
+Knowledge Quiz
+Q: Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+A: Cherry MX Blue - Science: Computers
