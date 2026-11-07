@@ -74,3 +74,6 @@ A: ADPCM Sampler - Science: Computers
 Knowledge Quiz 🧠
 Q: What album did The Lumineers release in 2016?
 A: Cleopatra - Entertainment: Music
+Knowledge Quiz 🧠
+Q: In the game Warframe, what Mastery Rank do you need to have to build the Tigris Prime?
+A: 13 - Entertainment: Video Games
