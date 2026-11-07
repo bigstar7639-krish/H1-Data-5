@@ -777,3 +777,4 @@ Coding Q 1484 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Fact 64 - Octopus ku 3 heart!
 Movie 1486 - Jailer - Rajini - Mass!
+Vocab 1487 - Love = Kadhal
