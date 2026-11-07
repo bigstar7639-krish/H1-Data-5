@@ -877,3 +877,5 @@ Teacher: Yen late? Student: School Ahead board!
 Emotion Q 1541 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
 Quote 1542 - Daily try pannu - Jeyichiduva! - Aira
+Joke 1543
+Why bike sad? Petrol illa!
