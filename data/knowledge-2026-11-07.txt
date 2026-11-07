@@ -617,3 +617,6 @@ Knowledge 1483 - Meditation - Meditation pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: What nationality was the surrealist painter Salvador Dali?
 A: Spanish - Art
+Knowledge Quiz
+Q: Which of the following computer components can be built using only NAND gates?
+A: ALU - Science: Computers
