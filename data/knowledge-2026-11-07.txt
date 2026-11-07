@@ -215,3 +215,6 @@ A: Criterion Games - Entertainment: Video Games
 Knowledge Quiz
 Q: In the game Tom Clancy's Rainbow 6 Siege, what organization is Valkyrie from?
 A: Navy Seals - Entertainment: Video Games
+Knowledge Quiz
+Q: In World of Warcraft's Mists of Pandaria expansion, What was the level cap?
+A: 90 - Entertainment: Video Games
