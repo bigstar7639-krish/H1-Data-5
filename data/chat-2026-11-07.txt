@@ -265,3 +265,5 @@ Aira AI: Ne Earth la eppadi improve panna mudiyum? - Nalla question! Daily try p
 Knowledge 1170 - Confidence - Confidence pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Joke 1171
 Teacher: Yen late? Student: School Ahead board!
+Coding Q 1172 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
