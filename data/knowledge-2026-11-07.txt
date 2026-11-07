@@ -89,3 +89,6 @@ A: A time piece - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these is not a layer in the OSI model for data communications?
 A: Connection Layer - Science: Computers
+Knowledge Quiz
+Q: How many sides does a pentagon have?
+A: 5 - Science: Mathematics
