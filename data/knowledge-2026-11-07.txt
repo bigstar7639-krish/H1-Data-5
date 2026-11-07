@@ -567,3 +567,6 @@ A: The HECU - Entertainment: Video Games
 Knowledge Quiz
 Q: Which painting was not made by Vincent Van Gogh?
 A: The Ninth Wave - Art
+Knowledge Quiz
+Q: What is the capital city of the U.S. state of Texas?
+A: Austin - Geography
