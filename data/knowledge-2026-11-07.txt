@@ -585,3 +585,6 @@ A: Δr - Science: Mathematics
 Knowledge Quiz
 Q: Which game did "Sonic The Hedgehog" make his first appearance in?
 A: Rad Mobile - Entertainment: Video Games
+Knowledge Quiz
+Q: What kind of instrument is a "Mandolin"?
+A: String - Entertainment: Music
