@@ -789,3 +789,4 @@ Joke 1493
 Teacher: Yen late? Student: School Ahead board!
 Recipe 1494 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Pazhamozhi 1495 - Aalai Paathu - Aadi Paaru!
+Talk 1496 - Truth pathi pesalama? Sollu!
