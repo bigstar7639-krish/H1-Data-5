@@ -620,3 +620,6 @@ A: Spanish - Art
 Knowledge Quiz
 Q: Which of the following computer components can be built using only NAND gates?
 A: ALU - Science: Computers
+Knowledge Quiz
+Q: What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in "The Railway Series"?
+A: LB&SCR A1X - Vehicles
