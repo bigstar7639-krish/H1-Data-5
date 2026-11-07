@@ -558,3 +558,6 @@ A: 427 - Vehicles
 Knowledge Quiz
 Q: What are the chances of being dealt a Royal Flush within Poker/Video Poker?
 A: 1 in 649,740 - Entertainment: Video Games
+Knowledge Quiz
+Q: Alzheimer's disease primarily affects which part of the human body?
+A: Brain - Science & Nature
