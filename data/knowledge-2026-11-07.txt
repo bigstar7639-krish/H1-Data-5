@@ -694,3 +694,6 @@ A: Roseanne - Entertainment: Television
 Knowledge Quiz
 Q: The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?
 A: Justinian I - History
+Knowledge Quiz
+Q: Where is Hadrian's Wall located?
+A: Carlisle, England - Geography
