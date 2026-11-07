@@ -648,3 +648,5 @@ Reading 1409 - Ramayana!
 Thirukkural 1410 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Vocab 1411 - Courage = Thairiyam
 Recipe 1412 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Coding Q 1413 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
