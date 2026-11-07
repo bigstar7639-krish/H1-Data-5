@@ -978,3 +978,4 @@ Vocab 1593 - Love = Kadhal
 World Story 1594
 Oru chinna village la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Health 1595 - Health Tip: Daily 8 glass water kudinga!
+Business Idea 1596 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
