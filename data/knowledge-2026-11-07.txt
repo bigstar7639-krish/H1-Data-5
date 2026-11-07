@@ -263,3 +263,6 @@ A: Takua - Entertainment: Comics
 Knowledge Quiz
 Q: Which driver has been the Formula 1 world champion for a record 7 times?
 A: Michael Schumacher - Sports
+Knowledge Quiz
+Q: A comet's gaseous envelope (which creates the tail) is called what?
+A: The coma - Science & Nature
