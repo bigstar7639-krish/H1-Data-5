@@ -672,3 +672,6 @@ A: Seattle - Geography
 Knowledge Quiz
 Q: Which nation joined NATO as its 29th member in 2017?
 A: Montenegro - Politics
+Knowledge Quiz
+Q: What is the name of the three headed dog in Harry Potter and the Sorcerer's Stone?
+A: Fluffy - Entertainment: Books
