@@ -748,3 +748,6 @@ Knowledge 1576 - Motivation - Motivation pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: What is the name of Ruby Rose's weapon from RWBY?
 A: Crescent Rose - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: What year was the game Team Fortress 2 released?
+A: 2007 - Entertainment: Video Games
