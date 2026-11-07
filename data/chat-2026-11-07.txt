@@ -650,3 +650,5 @@ Vocab 1411 - Courage = Thairiyam
 Recipe 1412 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Coding Q 1413 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Story 1414
+Oru city la oru teacher irunthan! Daily try pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
