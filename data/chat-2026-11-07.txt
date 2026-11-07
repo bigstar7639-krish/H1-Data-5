@@ -24,3 +24,5 @@ Oru chinna forest la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! 
 Reading 1618 - Bharathiyar Kavithaigal! 📚
 Coding Q 1619 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Motivation 1620
+Paravalla! Rest edu - Thirumba try pannu!
