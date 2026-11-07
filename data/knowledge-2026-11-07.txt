@@ -422,3 +422,6 @@ A: Golden Mushroom - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the lead singer of Bastille?
 A: Dan Smith - Entertainment: Music
+Knowledge Quiz
+Q: In Super Smash Bros. for Nintendo 3DS and Nintendo Wii U, who was the sixth fighter to be added to the game post-launch?
+A: Corrin - Entertainment: Video Games
