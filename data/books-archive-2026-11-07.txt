@@ -70,3 +70,4 @@ Forest - bwb_C0-AQJ-625 - The enchanted forest
 Forest - forestsea0000unse_e9d3 - the forest and the sea
 Desert - principalregular0000nsch - principal regularities of the desert locust plagues and swarm migrations
 Desert - desertsecrets0000harr - Desert secrets
+Snow - the-straightest-track-through-the-snow-sermon-by-rev.-arthur-f.-fruhling - The Straightest Track Through the Snow, Sermon by Rev. Arthur F. Fruhling
