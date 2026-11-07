@@ -1002,3 +1002,4 @@ Quote 1613 - Daily try pannu - Jeyichiduva! - Aira
 Emotion Q 1614 - bored?
 Aira: Bored ah? Joke sollattuma?
 Business Idea 1615 - Tuition - Veetla Tuition!
+Talk 1616 - Motivation pathi pesalama? Sollu!
