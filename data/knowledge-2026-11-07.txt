@@ -648,3 +648,6 @@ A: Mark Hamill - Entertainment: Video Games
 Knowledge Quiz
 Q: This element, when overcome with extreme heat and pressure, creates diamonds.
 A: Carbon - Science & Nature
+Knowledge Quiz
+Q: When Christopher Columbus sailed to America, what was the first region he arrived in?
+A: The Bahamas Archipelago - History
