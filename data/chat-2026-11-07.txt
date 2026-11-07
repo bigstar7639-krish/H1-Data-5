@@ -591,3 +591,5 @@ Pazhamozhi 1371 - Porumai - Perumai Tharum!
 Q 1372 - Excited pathi oru story kekkura?
 Smart Q 1373 - Delhi la eppadi jeyikkarathu?
 Vocab 1374 - Dream = Kanavu
+Emotion Q 1375 - bored?
+Aira: Bored ah? Joke sollattuma?
