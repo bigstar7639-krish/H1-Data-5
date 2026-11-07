@@ -282,3 +282,4 @@ Vocab 1181 - Friend = Nanban
 Game 1182 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Story 1183
 Oru chinna tokyo la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Recipe 1184 - Cake - Maida + Sugar + Egg + 30 min!
