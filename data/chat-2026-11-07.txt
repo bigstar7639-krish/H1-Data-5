@@ -841,3 +841,4 @@ Q 1522 - Un life la Temple eppadi irukku?
 World Story 1523
 Oru chinna world la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Recipe 1524 - Cake - Maida + Sugar + Egg + 30 min!
+Health 1525 - Health Tip: Daily 8 glass water kudinga!
