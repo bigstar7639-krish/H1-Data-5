@@ -330,3 +330,6 @@ A: The Flamingo - History
 Knowledge Quiz
 Q: In the 1986 film "The Wraith", what concept car is used for the Turbo Interceptor?
 A: Dodge M4S - Entertainment: Film
+Knowledge Quiz
+Q: In Yu-Gi-Oh, how does a player perform an Xyz Summon?
+A: Overlay at least 2 Monsters of the Same Level - Entertainment: Board Games
