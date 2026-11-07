@@ -415,3 +415,4 @@ Vocab 1265 - Courage = Thairiyam
 Recipe 1266 - Cake - Maida + Sugar + Egg + 30 min!
 Motivation 1267
 Paravalla! Rest edu - Thirumba try pannu!
+Recipe 1268 - Snacks - Potato + Masala - Crispy!
