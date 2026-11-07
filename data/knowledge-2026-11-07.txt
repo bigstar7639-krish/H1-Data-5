@@ -837,3 +837,6 @@ A: John Deacon - Entertainment: Music
 Knowledge Quiz
 Q: Which singer was featured in Swedish producer Avicii's song "Wake Me Up"?
 A: Aloe Blacc - Entertainment: Music
+Knowledge Quiz
+Q: In "Need for Speed III: Hot Pursuit", what is the name of the fictional car?
+A: El Niño - Entertainment: Video Games
