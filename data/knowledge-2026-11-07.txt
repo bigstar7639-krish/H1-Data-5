@@ -789,3 +789,6 @@ A: AK-47 - History
 Knowledge Quiz
 Q: What do sailors call the back of a boat?
 A: Stern - General Knowledge
+Knowledge Quiz
+Q: The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.
+A: low, all - Science & Nature
