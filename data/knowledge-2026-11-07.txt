@@ -639,3 +639,6 @@ Knowledge 1500 - Thirukkural - Thirukkural pathi sollu - Nalla question! Daily t
 Knowledge Quiz
 Q: How many manned moon landings have there been?
 A: 6 - History
+Knowledge Quiz
+Q: Which country does Austria not border?
+A: France - Geography
