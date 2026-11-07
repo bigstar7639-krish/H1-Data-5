@@ -291,3 +291,4 @@ Emotion Q 1189 - angry?
 Aira: Kovam ah? Deep breath edu!
 Pazhamozhi 1190 - Aalai Paathu - Aadi Paaru!
 Talk 1191 - Bible pathi pesalama? Sollu!
+Pazhamozhi 1192 - Aalai Paathu - Aadi Paaru!
