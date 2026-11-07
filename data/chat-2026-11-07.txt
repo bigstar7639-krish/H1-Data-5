@@ -1072,3 +1072,4 @@ Quote 1646 - Daily try pannu - Jeyichiduva! - Aira
 Quote 1647 - Daily try pannu - Jeyichiduva! - Aira
 Emotion Q 1648 - happy?
 Aira: Super! Happy ah irukka!
+Talk 1649 - Robot pathi pesalama? Sollu!
