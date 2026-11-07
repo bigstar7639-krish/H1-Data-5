@@ -600,3 +600,6 @@ Knowledge 1471 - Love - Kadhal - Azhagu!
 Knowledge Quiz
 Q: What is the capital city of Slovenia?
 A: Ljubljana - Geography
+Knowledge Quiz
+Q: What do sailors call the front of a boat?
+A: Bow - General Knowledge
