@@ -95,3 +95,6 @@ A: 5 - Science: Mathematics
 Knowledge Quiz
 Q: When Magic: The Gathering was first solicited, which of the following was it originally titled?
 A: Mana Clash - Entertainment: Board Games
+Knowledge Quiz
+Q: What was the #1 selling game on Steam by revenue in 2016?
+A: Sid Meier's Civilization VI - Entertainment: Video Games
