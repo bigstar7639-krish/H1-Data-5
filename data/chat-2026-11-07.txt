@@ -829,3 +829,4 @@ Q 1513 - Movie pathi oru story kekkura?
 Q 1514 - Ne Paris la eppadi improve panna mudiyum?
 Recipe 1515 - Snacks - Potato + Masala - Crispy!
 Reading 1516 - Ramayana!
+Thirukkural 1517 - Anbu - Ellam Tharum! - Thirukkural
