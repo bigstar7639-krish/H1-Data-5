@@ -8,3 +8,4 @@ Game 1208 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 1230 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 1239 - Coin Toss - Ne Toss nu Sollu!
 Game 1242 - Dice - Ne Dice nu Sollu!
+Game 1276 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
