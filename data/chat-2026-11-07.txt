@@ -589,3 +589,4 @@ Kavithai 1369 - Un Sirippu - En Vazhkai! - Aira
 Recipe 1370 - Cake - Maida + Sugar + Egg + 30 min!
 Pazhamozhi 1371 - Porumai - Perumai Tharum!
 Q 1372 - Excited pathi oru story kekkura?
+Smart Q 1373 - Delhi la eppadi jeyikkarathu?
