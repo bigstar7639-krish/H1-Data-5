@@ -461,3 +461,6 @@ A: A crowbar - Entertainment: Video Games
 Knowledge Quiz
 Q: How much horsepower is produced by the SD40-2 Locomotive?
 A: 3,000 - Vehicles
+Knowledge Quiz
+Q: How many metal bars does it take to smith a platebody in the MMO "RuneScape"?
+A: 5 bars - Entertainment: Video Games
