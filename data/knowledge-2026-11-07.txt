@@ -113,3 +113,6 @@ A: Python - Science: Computers
 Knowledge Quiz
 Q: Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?
 A: Ed Sheeran - I See Fire - General Knowledge
+Knowledge Quiz
+Q: In computing, what does MIDI stand for?
+A: Musical Instrument Digital Interface - Science: Computers
