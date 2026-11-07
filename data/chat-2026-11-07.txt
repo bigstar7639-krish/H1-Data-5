@@ -871,3 +871,4 @@ Fact 65 - Honey - 3000 varusham kedathu!
 Story 1537
 Oru chinna city la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Health 1538 - Health Tip: 7 mani neram thoongunga!
+Smart Q 1539 - God la eppadi jeyikkarathu?
