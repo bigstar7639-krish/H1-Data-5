@@ -773,3 +773,6 @@ A: Dean - Entertainment: Television
 Knowledge Quiz
 Q: What was the character Kirby originally going to be named?
 A: Popopo - Entertainment: Video Games
+Knowledge Quiz
+Q: In Rudyard Kipling's "The Jungle Book", what type of snake was Kaa?
+A: Python - Entertainment: Books
