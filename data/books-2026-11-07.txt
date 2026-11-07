@@ -26,3 +26,4 @@ kor - 6454732-319-hwangyeongceol-2018-gughoeyiweon-gangweon-hongceongunceolweong
 kan - in.gazette.karnataka_d.2021-01-29.ELNGPCR0000012021 - Karnataka Daily Gazette, 2021-01-29, Daily, Part III
 kan - in.gazette.karnataka_d.2022-03-22.DPAR90SDE2021 - Karnataka Daily Gazette, 2022-03-22, Daily, Part I
 ben - electric-motor-repair-sector-1 - Electric Motor Repair
+jpn - text-19 - Text 19
