@@ -741,3 +741,6 @@ A: Champ - Entertainment: Video Games
 Knowledge Quiz
 Q: In the Doctor Who universe, how many times can a time lord normally regenerate?
 A: 12 - Entertainment: Television
+Knowledge Quiz
+Q: What is the real name of the famous spanish humorist, El Risitas?
+A: Juan Joya Borga - Entertainment: Television
