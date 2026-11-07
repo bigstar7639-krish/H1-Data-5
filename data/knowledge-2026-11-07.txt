@@ -312,3 +312,6 @@ A: 350,000 - History
 Knowledge Quiz
 Q: Which artist composed the original soundtrack for "Watch Dogs 2"?
 A: Hudson Mohawke - Entertainment: Video Games
+Knowledge Quiz
+Q: Which genre of music is John Coltrane primarily associated with?
+A: Jazz - Entertainment: Music
