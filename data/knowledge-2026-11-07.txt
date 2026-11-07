@@ -807,3 +807,6 @@ A: October 25th, 2014 - Entertainment: Comics
 Knowledge Quiz
 Q: Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
 A: Cherry MX Blue - Science: Computers
+Knowledge Quiz
+Q: Who was the Prime Minister of the United Kingdom for most of World War II?
+A: Winston Churchill - History
