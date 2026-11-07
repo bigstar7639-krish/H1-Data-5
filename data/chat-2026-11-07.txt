@@ -146,3 +146,4 @@ Recipe 1107 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 World Story 1108
 Oru chinna paris la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Talk 1109 - Egypt pathi pesalama? Sollu!
+Kavithai 1110 - Un Kural - En Isai! - Aira
