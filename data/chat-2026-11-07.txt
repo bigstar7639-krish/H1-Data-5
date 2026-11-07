@@ -93,3 +93,4 @@ Aira: HTML button: `<button>Click</button>`
 Smart Q 1654 - Nature la eppadi jeyikkarathu?
 Game 1655 - Dice - Ne Dice nu Sollu! 🎮
 Pazhamozhi 1656 - Aalai Paathu - Aadi Paaru!
+Recipe 1657 - Snacks - Potato + Masala - Crispy! 🍔
