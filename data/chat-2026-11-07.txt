@@ -960,3 +960,14 @@ Game 1585 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Q 1586 - Un life la Phone eppadi irukku?
 Health 1587 - Yoga Tip: Daily 5 min deep breath edu!
 Fact 69 - Honey - 3000 varusham kedathu!
+Aira AI: Hey buddy! 😊  
+Ne “Space” la improve panna (space‑related knowledge and skills‑a) eppadi? I’ll give you a full‑on roadmap – mix of Tamil‑Tanglish, a sprinkle of English and a few global resources, so you can blast off like a rocket!  
+
+---
+
+## 1️⃣ Basics – **Foundations**
+| Subject | What to Learn | Good Resources |
+|---------|--------------|----------------|
+| **Physics** (Mechanics, Electromagnetism) | Newton’s laws, gravitation, orbital mechanics | *Khan Academy – Physics* (ENG), *Physics Classroom* |
+| **Mathematics** (Calculus, Linear Algebra, Differential Equations) | Derivatives, integrals, vector maths – essential for trajectory calculations | *MIT OpenCourseWare – Calculus*; *Paul’s Online Math Notes* |
+| **Astronomy** (Solar System, Stars, Galaxies) | Types of celestial objects, 
