@@ -767,3 +767,6 @@ Knowledge 1591 - Wisdom - Wisdom pathi sollu - Nalla question! Daily try pannu -
 Knowledge Quiz
 Q: What is the full name of the footballer "Cristiano Ronaldo"?
 A: Cristiano Ronaldo dos Santos Aveiro - Sports
+Knowledge Quiz
+Q: In Supernatural, what's is Sam's brothers name?
+A: Dean - Entertainment: Television
