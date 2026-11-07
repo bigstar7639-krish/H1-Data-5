@@ -278,3 +278,4 @@ Kavithai 1178 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 World Story 1179
 Oru chinna sea la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Q 1180 - Economics pathi oru story kekkura?
+Vocab 1181 - Friend = Nanban
