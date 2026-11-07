@@ -279,3 +279,6 @@ A: James I - History
 Knowledge Quiz
 Q: The board game "Monopoly" is a variation of what board game?
 A: The Landlord's Game - Entertainment: Board Games
+Knowledge Quiz
+Q: On which continent does the Andes mountain range lie?
+A: South America - Geography
