@@ -749,3 +749,5 @@ Pazhamozhi 1469 - Sontha Kaal la Ninnu - Jeyippa!
 Recipe 1470 - Snacks - Potato + Masala - Crispy!
 Knowledge 1471 - Love - Kadhal - Azhagu!
 Pazhamozhi 1472 - Porumai - Perumai Tharum!
+Emotion Q 1473 - excited?
+Aira: Excited ah! Sollu!
