@@ -792,3 +792,6 @@ A: Stern - General Knowledge
 Knowledge Quiz
 Q: The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.
 A: low, all - Science & Nature
+Knowledge Quiz
+Q: When was the United States National Security Agency established?
+A: November 4, 1952 - History
