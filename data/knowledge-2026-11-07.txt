@@ -446,3 +446,6 @@ A: Neil Peart - Entertainment: Music
 Knowledge Quiz
 Q: What is the relationship between Rick and Morty in the show "Rick and Morty"?
 A: Grandfather and Grandson - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Who is the main character in Metal Gear Rising: Revengeance?
+A: Raiden - Entertainment: Video Games
