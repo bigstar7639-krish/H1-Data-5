@@ -151,3 +151,5 @@ Emotion Q 1111 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
 Smart Q 1112 - Ocean la eppadi jeyikkarathu?
 Reading 1113 - Mahabharata!
+Joke 1114
+Teacher: Yen late? Student: School Ahead board!
