@@ -868,3 +868,5 @@ Knowledge 1533 - Chennai - Chennai pathi sollu - Nalla question! Daily try pannu
 Recipe 1534 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Kavithai 1535 - Un Kural - En Isai! - Aira
 Fact 65 - Honey - 3000 varusham kedathu!
+Story 1537
+Oru chinna city la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
