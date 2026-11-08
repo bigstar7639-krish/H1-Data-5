@@ -196,3 +196,6 @@ Poetry - bwb_C0-BNY-939 - British Poetry and Prose
 Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
 Writing - bwb_O6-BGC-949 - IEEE Engineers Guide to Business: Writing for Carreer Growth
 Poetry - bwb_T4-ALI-190 - Rose and Poetry for Appreciation
+Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
+Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
+Dancing - oapen-20.500.12657-79419 - Chapter 4.9 A chorus of dancing voices curated by Katye Coe
