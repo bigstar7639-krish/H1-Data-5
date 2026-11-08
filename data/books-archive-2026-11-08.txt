@@ -138,3 +138,5 @@ Burger - cbfc-ecinepramaan-100010291800006313 - BAJRA VS BURGER THEATRICAL TRAIL
 Pizza - the-pizza-tower - The Pizza Tower (ptle4.5 level)
 Pizza - cbfc-ecinepramaan-100010291900006672 - PIZZA HUT WOW EVERYDAY VALUE
 Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
+Chocolate - chocolatewar0000robe - The chocolate war
+Chocolate - isbn_9781433336218 - Make It Chocolate
