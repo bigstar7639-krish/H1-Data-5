@@ -170,3 +170,7 @@ Horse - myhorsesays0000unse_t0k6 - my horse says
 Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
 Bike - bwb_S0-BCA-106 - Hit the Bike Trail
 Bike - cbfc-ecinepramaan-100010292400003826 - IKEA NLP BIKE BLR
+Car - tdmcarcollection1 - TDM Car Collection 1
+Car - car_purchase_markdown - car_purchase_markdown
+Train - gettingherefroms0000pete - Getting Here: From a Seat on a Train to a Seat on the Bench
+Train - bwb_T4-APT-839 - How to raise and train a lhasa apso
