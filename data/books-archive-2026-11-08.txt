@@ -120,3 +120,5 @@ Forest - bwb_S0-CLS-359 - Forest Soil Science
 Forest - bwb_KV-423-367 - The drunken forest
 Desert - bwb_S0-BBE-925 - Captives of the Desert
 Desert - bwb_KU-559-291 - The Gobi Desert
+Snow - bwb_W9-CRW-103 - On snow and rock
+Snow - manalternativess0000unse - man: alternatives snow & fuchs of experience
