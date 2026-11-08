@@ -140,3 +140,7 @@ Pizza - cbfc-ecinepramaan-100010291900006672 - PIZZA HUT WOW EVERYDAY VALUE
 Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Chocolate - chocolatewar0000robe - The chocolate war
 Chocolate - isbn_9781433336218 - Make It Chocolate
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - bwb_C0-ARO-969 - A Fruit Is Born
+Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make vegetables irresistible
+Vegetable - isbn_9781439239247 - Untouchable Vegetable Vendor's Child
