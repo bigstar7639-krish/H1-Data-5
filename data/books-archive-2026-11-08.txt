@@ -182,3 +182,7 @@ Computer - developmentofcom0000john - Development Of Computer Supplements To Cal
 Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
 Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_T3-BRL-524 - A Study of the Book of Acts
+Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
+Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
+Thirukkural - thirukkuraltamilprojectmadurai_202003_991_c - Thirukkural ( Tamil) ( Project Madurai)
