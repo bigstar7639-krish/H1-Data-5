@@ -10,3 +10,7 @@ Family - family195319600000alex - Family 1953 - 1960
 Family - bwb_P9-BJO-264 - The Family Of Tomorrow The Cultural Crisis And The Way Out
 Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
 Friendship - bwb_S0-BQD-714 - Arnold Bennett and H.G. Wells - A Record of Personal and a Literary Friendship
+Study - bppr-3-1304 - Physicochemical characterization of mRNA-encapsulated NPs and RNA loading efficiency study
+Study - bwb_S0-BTO-314 - The old testament and moddern study
+Dream - bwb_S0-DNJ-631 - Never dies the dream
+Dream - bwb_S0-ASP-932 - The Coming League and the Roman Dream
