@@ -246,3 +246,7 @@ Sun - 2024-02-08-0022 - Quincy Sun Feb 08 2024
 Sun - bwb_S0-EKW-675 - run way to the sun
 Bird - wildbirdneighbor0000alvi_p5k4 - Wild bird neighbors
 Bird - bwb_S0-EKS-952 - The bird biographies of John James Audubon
+Animal - im-an-animal_202201 - Im An Animal
+Animal - animalkingdom0000rene - The Animal Kingdom
+Baby - expectingrancher0000gold - Expecting the rancher's baby
+Baby - prematurebaby0000vmar - the premature baby
