@@ -240,3 +240,7 @@ Sky - bwb_S0-BGR-072 - Get Out Of My Sky
 Sky - bwb_C0-CEH-108 - Flames in the Sky
 Star - isbn_9781530770762 - Cade (Lone Star Lovers) (Volume 1)
 Star - bwb_S0-CJW-495 - Sunset and Evening Star
+Moon - ducksacrossmoonl0000keno - Ducks across the Moon: Life on eighty acres in the Flint HIlls
+Moon - moononruins0000brad - Moon on the ruins
+Sun - 2024-02-08-0022 - Quincy Sun Feb 08 2024
+Sun - bwb_S0-EKW-675 - run way to the sun
