@@ -348,3 +348,7 @@ Saree - cbfc-ecinepramaan-100010292300007829 - SAREE SANSAR - 20SEC
 Saree - dsource_kandangi-saree - Kandangi Saree - The Craft of Chettinadu Saree Making
 Biryani - cbfc-ecinepramaan-100010291800005717 - FORTUNE BIRYANI 1 TO 3
 Biryani - cbfc-ecinepramaan-100010292400006006 - THUMS UP TOOFANI BIRYANI HUNT RANVEER
+Diwali - SadaDiwali_20170915 - Sada Diwali
+Diwali - cbfc-ecinepramaan-100010292100005217 - SONG: DIWALI SONG
+Pongal - cbfc-ecinepramaan-100030291900002694 - THAMBIS PONGAL JINGLE PERIAKULAM
+Pongal - gov.uscourts.nysd.428083 - Agustin v. Pongal, Inc.
