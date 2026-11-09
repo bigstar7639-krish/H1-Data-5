@@ -278,3 +278,7 @@ Law - isbn_9780832210808 - Ohio Employment Practices Law 2004 Edition (Baldwin's
 Law - 1979v03iss01lawjournal - West Indian Law Journal
 Education - thirtyeighthyear0000guym_m4v0 - The Thirty-Eighth Yearbook of the National Society for the Study of Education
 Education - RyanPadraigKelly4_20140203_1552 - Ryan Padraig Kelly Education
+Happiness - bwb_S0-AHD-755 - The road to happiness and other essays
+Happiness - bwb_Y0-BSQ-074 - THE HIGHER HAPPINESS
+Smile - bwb_C0-AYF-092 - The Hidden Smile
+Smile - bwb_S0-BLN-009 - A Tear and A Smile
