@@ -156,3 +156,7 @@ Book - catalogofdolls180000unse - A Catalog of Dolls 1877-1961: Reference Book f
 Book - bwb_Y0-DRW-648 - The Animal Stroy Book
 Kavithai - tdl.tdl_9c20fd-nuul-tinnn-kvitai-dina-kavithai-paakm-2 - நூல் - தின கவிதை Dina Kavithai - பாகம் 2
 Kavithai - kankal-sollum-kavithai - Kankal Sollum Kavithai
+Thirukkural - shg.701576-a-study-of-chetan-bhagat-s-young-generation-in-the-light-of-thiru - A Study Of Chetan Bhagat s Young Generation In The Light Of Thirukkural
+Thirukkural - ThirukkuralKatturaigal_201506 - Thirukkural Katturaigal
+Pazhamozhi - shg.707643-pazhamozhi-naanooru-unarthum-panpaadu-mathippugal - Pazhamozhi Naanooru Unarthum Panpaadu Mathippugal
+Pazhamozhi - pazhamozhi - pazhamozhi
