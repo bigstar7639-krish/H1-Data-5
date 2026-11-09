@@ -176,3 +176,7 @@ Eiffel Tower - memyselfparisone0000ruth - Me, Myself and Paris: One Toe under th
 Eiffel Tower - catsofeiffeltowe00rose - The cats of the Eiffel Tower
 Psychology - psychologylester0000john - Psychology / Lester M. Sdorow. Course success guide
 Psychology - madmanstrangeadv0000sule - Madman : strange adventures of a psychology intern
+Philosophy - bwb_Y0-COU-477 - The moral philosophy of George Berkeley
+Philosophy - bwb_Y0-BUC-382 - the dawn philosophy
+Economics - MicroEconomicsTheoriesAndApplications - Micro Economics Theories And Applications
+Economics - appliedstatistic0000phka - Applied Statistics for Economics
