@@ -216,3 +216,5 @@ Sushi - totemogenkeinesu0000anha - Tote mögen keine Sushi Roman
 Sushi - isbn_9781407514673 - Para Hoy Sushi
 Kyoto - gov.uscourts.nyed.306626 - Navarrete v. Kyoto Sushi Inc.
 Kyoto - memoirs-faculty-science-kyoto-phys-astro-geophys-chem_1923-03_6_6 - Memoirs of the College of Science, Kyoto Imperial University. Series A 1923-03: Vol 6 Iss 6
+Osaka - gov.uscourts.txeb.185809 - Dallas Osaka, Inc.
+Osaka - jstor-41454474 - JAPAN. Plague at Osaka—Dysentery reappearing epidemically
