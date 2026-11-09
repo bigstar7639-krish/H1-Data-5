@@ -306,3 +306,5 @@ Japanese Food - gov.uscourts.flsd.450040 - Barrera Sarceno v. Konexpress Japanes
 Japanese Food - bwb_W6-AEV-450 - Japanese Food For Health
 Sushi - twitch-chat-102584165 - Twitch chat logs from BlueEyes_und_Sushi
 Sushi - gov.uscourts.njd.503829 - NOTTE v. NEW SUSHI, LLC
+Kyoto - io-sono-a-conoscenza-che-dal-protocollo-di-kyoto-ogni-surplus-di-energia-e-quind - Io Sono A Conoscenza Che Dal Protocollo Di Kyoto Ogni Surplus Di Energia E Quindi Inquinamento Prodotto Può Essere Comprato
+Kyoto - scanningelectron0000inte - Scanning electron microscopy in cell biology and medicine : proceedings of the International Symposium on SEM in Cell Biology and Medicine, Kyoto, 11-15 May, 1980
