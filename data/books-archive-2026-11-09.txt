@@ -10,3 +10,5 @@ Future - probablefuture0000hoff_e6y1 - The probable future
 Future - reviewofresearch0003unse_3 - review of research in future markets
 Freedom - bwb_S0-BGT-064 - freedom in the modern world
 Freedom - bwb_S0-BOW-795 - Freedom and the Court Civil Rights and Liberties in the United States
+Faith - bwb_S0-CPU-791 - JOB A study in Providence and FAith
+Faith - bwb_W1-ATV-819 - An Introduction to Sharing the Light of Faith
