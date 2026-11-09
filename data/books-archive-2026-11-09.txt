@@ -180,3 +180,5 @@ Philosophy - bwb_Y0-COU-477 - The moral philosophy of George Berkeley
 Philosophy - bwb_Y0-BUC-382 - the dawn philosophy
 Economics - MicroEconomicsTheoriesAndApplications - Micro Economics Theories And Applications
 Economics - appliedstatistic0000phka - Applied Statistics for Economics
+Politics - bossruleportrait0000john - Boss rule: portraits in city politics
+Politics - politics-of-genocide-punjab_202103 - politics-of-genocide-punjab
