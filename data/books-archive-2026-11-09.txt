@@ -286,3 +286,5 @@ Future - pubmed-PMC3339227 - Neurological soft signs in schizophrenia - The past
 Future - bwb_S0-DTV-561 - survey of science and technology issues present and future
 Heart - wingsbehindmyhea0000harr - Wings Behind My Heart
 Heart - dua-reflection-and-character-the-spiritual-heart-of-a-visual-hifz-journey - Dua, Reflection, And Character – The Spiritual Heart Of A Visual Hifz Journey
+Freedom - freedom00leon - Freedom : more than 600 quotes celebrating independence, liberty, and justice
+Freedom - bwb_S0-ATH-647 - vanishing dinosaur freedom as vocation
