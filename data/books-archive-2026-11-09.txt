@@ -230,3 +230,7 @@ China - bwb_S0-AKJ-020 - Cultural Relics Unearthed in China
 China - chinaintransform0000unse_h5m5 - China in transformation
 Beijing - bwb_KU-404-589 - GALERIEURSMEILI Beijing-Lucerne 2009
 Beijing - beijing00harp - Beijing
+Great Wall - fromwallstreetto0000malk - From Wall Street to the Great Wall : how investors can profit from China's booming economy
+Great Wall - mengjiangnubring0000unse - Meng Jiangnü brings down the Great Wall : ten versions of a Chinese legend
+Panda - KungFuPandaBuild18_201905 - Kung Fu Panda Build 18
+Panda - panda_253 - panda_253
