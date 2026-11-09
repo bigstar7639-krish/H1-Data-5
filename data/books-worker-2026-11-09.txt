@@ -418,3 +418,5 @@ Happiness - Price of Happiness
 Smile - Smile
 Smile - A certain smile
 Smile - The smile of the stranger
+Future - The Ministry for the Future
+Future - Elon Musk
