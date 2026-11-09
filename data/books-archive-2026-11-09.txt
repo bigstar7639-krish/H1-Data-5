@@ -70,3 +70,7 @@ Saree - gov.uscourts.txnb.453991 - Acie G. Raymond and Saree N. Raymond
 Saree - cbfc-ecinepramaan-100080292200000176 - MPJ JEWELLERS RED SAREE (PART - 1)
 Biryani - cbfc-ecinepramaan-100070292300000652 - ADVT OF "RED BUCKET BIRYANI"
 Biryani - cbfc-ecinepramaan-100010292300000170 - THUMS UP NON-VEG BIRYANI
+Diwali - UlhasPrabhatEDiwaliAnk2017 - Ulhas Prabhat E Diwali Ank 2017
+Diwali - cbfc-ecinepramaan-100010292100005011 - APV DIWALI BRAND FILM 1
+Pongal - canadahindumaama00unse_5 - Canada Hindu Maamantram - Saivaneethi - Pongal Malar - 2013
+Pongal - cbfc-ecinepramaan-100010291800000126 - MAAZA - PONGAL
