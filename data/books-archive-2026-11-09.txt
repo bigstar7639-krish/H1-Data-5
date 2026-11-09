@@ -206,3 +206,7 @@ Tokyo - gov.uscourts.flsd.388089 - Cohen v. Shanghai Tokyo, Inc.
 Tokyo - internationaltra0000winh - International trade and the Tokyo Round negotiation
 Sakura - sakuraco-snack-guide-37 - Sakuraco Snack Guide Vol. 37, March 2024: Beauty of Sakura
 Sakura - sakurajapanesec00miyo - Sakura, Japanese cherry
+Kimono - isbn_9781925000245 - Removing the Kimono
+Kimono - womanincrestedki00mccl - Woman in the crested kimono : the life of Shibue Io and her family
+Anime - anime-clud-2text - Anime Clud 2text
+Anime - anime_20210928 - anime
