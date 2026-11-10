@@ -70,3 +70,7 @@ Sea - bwb_T5-ARI-200 - We Didnt mean to go to sea
 Sea - bwb_Y0-DTD-032 - By The Ionian Sea
 Mountain - mountainmadness0000wini_s7s5 - mountain madness
 Mountain - bwb_T4-AKA-876 - Don' Fall Off The Mountain
+River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relative to the red rive resistance of 1869-1870
+River - bwb_Y0-AER-901 - Peace River Country
+Sky - bwb_S0-BGR-072 - Get Out Of My Sky
+Sky - bwb_C0-CEH-108 - Flames in the Sky
