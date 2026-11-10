@@ -188,3 +188,7 @@ Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
 Horse - bwb_T5-CWP-283 - stand to horse
 Bike - bwb_S0-BCA-106 - Hit the Bike Trail
 Bike - isbn_9780948153747 - Mountain Bike Guide
+Car - bwb_S0-DQS-031 - For children cannot wait car les enfants ne peuvent attendre denn kinder konnen nicht warten
+Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
+Train - bwb_KU-358-471 - last train from berlin
+Train - gettingherefroms0000pete - Getting Here: From a Seat on a Train to a Seat on the Bench
