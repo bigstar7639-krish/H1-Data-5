@@ -6,3 +6,7 @@ Horse - myhorsesays0000unse_t0k6 - my horse says
 Horse - bwb_T5-CWP-283 - stand to horse
 Bike - bwb_S0-BCA-106 - Hit the Bike Trail
 Bike - bikehealthyhowcy0000andr - Bike healthy : how cycling will help you look good, feel good and quite possibly live longer
+Car - fastcar0000murp - Fast car
+Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
+Train - letrainsarreteka0000andr - Le Train S'arrete a Ka
+Train - bwb_KU-358-471 - last train from berlin
