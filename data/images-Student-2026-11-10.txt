@@ -41,3 +41,4 @@ Student - Unsplash - https://source.unsplash.com/800x600/?student%20graduation
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:General_biology;_a_book_of_outlines_and_practical_studies_for_the_general_student_(IA_generalbiologybo00neediala).pdf
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Happy-palace-grammar-school-NEC.jpg
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Reading_Wikipedia_in_the_Classroom_for_Secondary_School_Student_Closing_Session_GSS_Adeta_17.jpg
+Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Student_using_a_workbook.jpg
