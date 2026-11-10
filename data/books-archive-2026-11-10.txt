@@ -200,3 +200,7 @@ Computer - computerbasedtra0000hila - Computer-based Training of Cannon Fire Dir
 Computer - computerdatabase0000lawr - A Computer Data Base System for Indexing Research Papers
 Book - truebookofmaps0000unse - the true book of maps
 Book - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
+Kavithai - kankal-sollum-kavithai - Kankal Sollum Kavithai
+Kavithai - Ilattu_Tamill_Kavithai_Kalannciyam - Ilattu Tamill Kavithai Kalannciyam
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
+Thirukkural - acc.-no.-15807-thirukkural-couplets-2000 - THIRUKKURAL COUPLETS WITH CLEAR PROSE RENDERING (In English)
