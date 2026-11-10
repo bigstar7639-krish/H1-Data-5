@@ -20,3 +20,7 @@ Book - truebookofmaps0000unse - the true book of maps
 Book - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
 Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
+Thirukkural - kzgo_thirukkural-of-maharshi-thiruvalluvar-tamil-hindi-tr.-sri-nanda-kumar-awasthi-19 - Thirukkural Of Maharshi Thiruvalluvar Tamil Hindi Tr. Sri Nanda Kumar Awasthi 1976 Lucknow Bhuvan Vani Trust
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
+Pazhamozhi - in.ernet.dli.2015.370067 - Kazhagap Pazhamozhi Akaravarichai 10450 Pazhamozhigal’
