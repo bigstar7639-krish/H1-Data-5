@@ -86,3 +86,7 @@ Animal - im-an-animal_202201 - Im An Animal
 Animal - animalkingdom0000rene - The Animal Kingdom
 Baby - girlfriendsguide00iovi_0 - The girlfriends' guide to baby gear
 Baby - keralalegislativeassembly.proceedings.485952 - Incident about Death of Mother and Baby Related to Delivery / പ്രസവത്തോടനുബന്ധിച്ച് അമ്മയും കുഞ്ഞും മരണപ്പെട്ടത് സംബന്ധിച്ച്
+Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done it!
+Teacher - bwb_S0-CBG-611 - The Discrenible Teacher
+Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Algebra
+Student - bwb_S0-DNM-028 - High school student book
