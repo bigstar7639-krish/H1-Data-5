@@ -359,3 +359,8 @@ Temple - The Magic of the Lost Temple
 Temple - Temple of Fire
 Temple - Temple of the Winds
 Sea - Vingt mille lieues sous les mers
+Flower - Flowers in the Attic
+Flower - Flowers for Algernon
+Flower - the sun and her flowers
+Sea - Wide Sargasso Sea
+Sea - The Old Man and the Sea
